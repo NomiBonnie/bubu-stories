@@ -19,6 +19,11 @@ export default function Home({ stories, onSelect }) {
               <div className="story-card-info">
                 <h2 className="story-card-title">{s.title}</h2>
                 <p className="story-card-meta">{s.date} · {s.pages} pages</p>
+                {s.tags && (
+                  <div className="story-card-tags">
+                    {s.tags.map(t => <span key={t} className="tag">{t}</span>)}
+                  </div>
+                )}
               </div>
             </div>
           )
