@@ -1,13 +1,20 @@
 import { useState } from 'react'
-import Home from './Home'
 import StoryReader from './StoryReader'
-import storyData from '../stories/2026-03-19.json'
+import Home from './Home'
+import storiesIndex from '../stories/index.json'
+import storyData2026 from '../stories/2026-03-19.json'
+
+const storyMap = {
+  '2026-03-19': storyData2026
+}
 
 export default function App() {
-  const [reading, setReading] = useState(false)
+  const [selectedId, setSelectedId] = useState(null)
 
-  if (reading) {
-    return <StoryReader story={storyData} onBack={() => setReading(false)} />
+  const storyData = selectedId ? storyMap[selectedId] : null
+
+  if (selectedId && storyData) {
+    return <StoryReader story={storyData} onBack={() => setSelectedId(null)} />
   }
-  return <Home story={storyData} onStart={() => setReading(true)} />
+  return <Home stories={storiesIndex} onSelect={(id) => setSelectedId(id)} />
 }
