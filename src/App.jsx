@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import StoryReader from './StoryReader'
 import Home from './Home'
 import storiesIndex from '../stories/index.json'
@@ -10,13 +10,29 @@ const storyMap = {
   '2026-03-20': story0320
 }
 
-export default function App() {
-  const [selectedId, setSelectedId] = useState(null)
-
-  const storyData = selectedId ? storyMap[selectedId] : null
-
-  if (selectedId && storyData) {
-    return <StoryReader story={storyData} onBack={() => setSelectedId(null)} />
+function getRoute() {
+  const hash = window.location.hash.replace('#', '')
+  if (hash.startsWith('/story/')) {
+    return { view: 'story', id: hash.replace('/story/', '') }
   }
-  return <Home stories={storiesIndex} onSelect={(id) => setSelectedId(id)} />
+  return { view: 'home' }
+}
+
+export default function App() {
+  const [route, setRoute] = useState(getRoute)
+
+  useEffect(() => {
+    const handler = () => setRoute(getRoute())
+    window.addEventListener('hashchange', handler)
+    return () => window.removeEventListener('hashchange', handler)
+  }, [])
+
+  const navigate = (path) => {
+    window.location.hash = path
+  }
+
+  if (route.view === 'story' && storyMap[route.id]) {
+    return <StoryReader story={storyMap[route.id]} onBack={() => navigate('/')} />
+  }
+  return <Home stories={storiesIndex} onSelect={(id) => navigate(`/story/${id}`)} />
 }
