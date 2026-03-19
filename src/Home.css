@@ -18,7 +18,7 @@
 
 .home-subtitle {
   text-align: center;
-  font-family: 'Noto Sans SC', serif;
+  font-family: 'Noto Sans SC', sans-serif;
   font-size: 13px;
   font-weight: 300;
   color: var(--text-light);
@@ -91,12 +91,21 @@
 }
 
 .story-card-title {
-  font-family: 'Noto Sans SC', serif;
+  font-family: 'Noto Sans SC', sans-serif;
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 500;
   color: var(--text);
   margin: 0 0 4px;
   letter-spacing: 1px;
+}
+
+.story-card-tags {
+  font-family: 'Noto Sans SC', sans-serif;
+  font-size: 11px;
+  font-weight: 300;
+  color: var(--text-light);
+  margin: 0 0 4px;
+  letter-spacing: 0.5px;
 }
 
 .story-card-meta {
@@ -105,22 +114,4 @@
   color: var(--text-light);
   margin: 0;
   letter-spacing: 1px;
-}
-
-.story-card-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4px;
-  margin-top: 6px;
-}
-
-.tag {
-  font-family: 'Noto Sans SC', sans-serif;
-  font-size: 10px;
-  font-weight: 300;
-  color: var(--text-light);
-  background: var(--bg);
-  padding: 2px 8px;
-  border-radius: 10px;
-  letter-spacing: 0.5px;
 }
