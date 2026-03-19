@@ -1,71 +1,108 @@
 .home {
-  min-height: 100%;
-  background: linear-gradient(135deg, #FFF8F0 0%, #FFE8D6 100%);
-  padding: 24px 16px;
+  min-height: 100vh;
+  background: var(--bg);
+  padding: 48px 20px 32px;
+  overflow-y: auto;
 }
 
 .home-header {
   text-align: center;
-  font-size: 28px;
-  font-weight: 900;
-  color: #3D2C1E;
-  margin-bottom: 24px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 32px;
+  font-weight: 300;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+.home-subtitle {
+  text-align: center;
+  font-family: 'Noto Serif SC', serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--text-light);
+  letter-spacing: 4px;
+  margin-bottom: 40px;
+}
+
+.home-divider {
+  width: 40px;
+  height: 1px;
+  background: var(--accent);
+  margin: 0 auto 40px;
 }
 
 .stories-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
-  max-width: 900px;
+  gap: 20px;
+  max-width: 640px;
   margin: 0 auto;
 }
 
 @media (min-width: 768px) {
   .stories-grid {
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    gap: 24px;
+    max-width: 900px;
+  }
+  .home-header {
+    font-size: 40px;
+    letter-spacing: 10px;
   }
 }
 
 .story-card {
-  background: white;
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
   cursor: pointer;
-  transition: transform 0.2s, box-shadow 0.2s;
+  transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 .story-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  transform: translateY(-2px);
+}
+
+.story-card:active {
+  transform: scale(0.98);
+  opacity: 0.9;
 }
 
 .story-card-img-wrap {
   width: 100%;
   aspect-ratio: 2/3;
   overflow: hidden;
+  border-radius: 2px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
 }
 
 .story-card-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.story-card:hover .story-card-img {
+  transform: scale(1.03);
 }
 
 .story-card-info {
-  padding: 12px;
+  padding: 10px 2px 0;
 }
 
 .story-card-title {
-  font-size: 16px;
-  font-weight: 800;
-  color: #3D2C1E;
+  font-family: 'Noto Serif SC', serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
   margin: 0 0 4px;
+  letter-spacing: 1px;
 }
 
 .story-card-meta {
-  font-size: 13px;
-  color: #999;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 12px;
+  color: var(--text-light);
   margin: 0;
+  letter-spacing: 1px;
 }
