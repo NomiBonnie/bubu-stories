@@ -10,7 +10,7 @@ export default function Home({ stories, onSelect }) {
       <div className="home-divider" />
       <div className="stories-grid">
         {stories.map(s => {
-          const coverImg = `${BASE}images/${s.id}/${s.cover}.png`
+          const coverImg = `${BASE}images/${s.id}/${s.cover}.jpg`
           return (
             <div key={s.id} className="story-card" onClick={() => onSelect(s.id)}>
               <div className="story-card-img-wrap">

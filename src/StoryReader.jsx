@@ -3,6 +3,10 @@ import './StoryReader.css'
 
 const BASE = import.meta.env.BASE_URL
 
+function imgUrl(date, pageNum) {
+  return `${BASE}images/${date}/page-${String(pageNum).padStart(2, '0')}.jpg`
+}
+
 export default function StoryReader({ story, onBack }) {
   const [page, setPage] = useState(0)
   const touchRef = useRef(null)
@@ -16,6 +20,17 @@ export default function StoryReader({ story, onBack }) {
       return next
     })
   }, [total, onBack])
+
+  // Preload next 2 images
+  useEffect(() => {
+    for (let i = 1; i <= 2; i++) {
+      const next = page + i
+      if (next < total) {
+        const img = new Image()
+        img.src = imgUrl(story.date, next + 1)
+      }
+    }
+  }, [page, total, story.date])
 
   const onTouchStart = (e) => { touchRef.current = e.touches[0].clientX }
   const onTouchEnd = (e) => {
@@ -41,8 +56,7 @@ export default function StoryReader({ story, onBack }) {
   }, [go, onBack])
 
   const p = story.pages[page]
-  const num = String(page + 1).padStart(2, '0')
-  const imgSrc = `${BASE}images/${story.date}/page-${num}.png`
+  const imgSrc = imgUrl(story.date, page + 1)
 
   return (
     <div
