@@ -31,6 +31,14 @@ export default function App() {
     return () => window.removeEventListener('hashchange', handler)
   }, [])
 
+  useEffect(() => {
+    const meta = document.getElementById('theme-color')
+    if (meta) {
+      meta.setAttribute('content', route.view === 'story' ? '#0D0B09' : '#FAF8F5')
+    }
+    document.body.style.background = route.view === 'story' ? '#0D0B09' : '#FAF8F5'
+  }, [route.view])
+
   const navigate = (path) => {
     window.location.hash = path
   }
