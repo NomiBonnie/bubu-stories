@@ -20,7 +20,7 @@
   text-align: center;
   font-family: 'Noto Sans SC', serif;
   font-size: 13px;
-  font-weight: 400;
+  font-weight: 300;
   color: var(--text-light);
   letter-spacing: 4px;
   margin-bottom: 40px;
@@ -93,7 +93,7 @@
 .story-card-title {
   font-family: 'Noto Sans SC', serif;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 300;
   color: var(--text);
   margin: 0 0 4px;
   letter-spacing: 1px;

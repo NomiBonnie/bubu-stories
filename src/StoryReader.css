@@ -17,8 +17,8 @@
   text-align: center;
   color: #F5F0EB;
   font-family: 'Noto Sans SC', serif;
-  font-size: 20px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 300;
   line-height: 1.8;
   letter-spacing: 0.5px;
   min-height: 80px;
@@ -29,7 +29,7 @@
 
 @media (max-width: 480px) {
   .reader-text {
-    font-size: 17px;
+    font-size: 16px;
     padding: 16px 20px;
     line-height: 1.75;
   }
