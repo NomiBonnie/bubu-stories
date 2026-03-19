@@ -51,6 +51,7 @@ export default function StoryReader({ story, onBack }) {
       onTouchStart={onTouchStart}
       onTouchEnd={onTouchEnd}
     >
+      <button className="reader-back" onClick={(e) => { e.stopPropagation(); onBack() }}>←</button>
       <img className="reader-img" src={imgSrc} alt={`Page ${page + 1}`} />
       <div className="reader-text">
         <p>{p.text}</p>
