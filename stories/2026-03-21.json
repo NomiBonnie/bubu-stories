@@ -1,0 +1,67 @@
+{
+  "title": "小刺猬的新朋友",
+  "date": "2026-03-21",
+  "cover": "page-05",
+  "pages": [
+    {
+      "text": "咘咘在草地上玩的时候，看到树底下坐着一个圆圆的小家伙，浑身都是刺。",
+      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny discovering a small cute hedgehog sitting alone under a tree, the hedgehog looks shy with soft brown spines, lush green meadow, warm afternoon sunlight, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "\"你好！我叫咘咘！你是谁呀？\"咘咘跑过去打招呼。小刺猬吓了一跳，缩成了一个球。",
+      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny waving hello at a small hedgehog who is curling into a ball defensively, shy and scared expression on hedgehog, meadow setting, children's picture book, gentle lighting, vertical portrait composition"
+    },
+    {
+      "text": "\"别怕别怕！\"咘咘蹲下来，轻轻地说。小刺猬慢慢探出头来：\"我……我叫豆豆。我刚搬到这里，一个朋友都没有。\"",
+      "imagePrompt": "Pixar 3D animation style, a cute white bunny crouching down gently next to a hedgehog who is slowly uncurling and peeking out shyly, warm and tender moment, meadow with wildflowers, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "\"我做你的朋友呀！\"咘咘开心地说。可是咘咘伸手想拉豆豆，被刺扎了一下。\"哎哟！\"",
+      "imagePrompt": "Pixar 3D animation style, a cute white bunny pulling back paw in surprise after touching hedgehog's spines, the hedgehog looks guilty and sad, small comic pain stars around bunny's paw, meadow setting, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "豆豆低下头，眼睛红红的。\"对不起……所以大家都不想跟我玩。我的刺会扎到别人。\"",
+      "imagePrompt": "Pixar 3D animation style, a sad cute hedgehog with teary eyes looking down, feeling ashamed of its spines, a concerned white bunny watching, emotional tender scene, warm light, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "这时候 Sam 爸爸走过来了。Sam 爸爸是一只大大的金毛狗，特别温柔。\"怎么了呀咘咘？\"",
+      "imagePrompt": "Pixar 3D animation style, a large friendly golden retriever dog (father figure) walking over to a white baby bunny and small hedgehog on a meadow, kind and warm expression, gentle giant feeling, afternoon sunlight, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "咘咘说：\"豆豆怕他的刺会扎到别人，没有人愿意跟他玩。\"Sam 爸爸笑着说：\"每个人都不一样呀。豆豆有刺，但是刺也能保护朋友呢。\"",
+      "imagePrompt": "Pixar 3D animation style, a wise golden retriever dog sitting and talking kindly to a white bunny and hedgehog, warm fatherly smile, the hedgehog looking up with hope, meadow with soft golden light, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "Tina 妈妈也来了。Tina 妈妈是一只漂亮的小花牛，总是笑眯眯的。她带了好多草莓。\"来，大家一起吃草莓吧！分享让快乐变多哦。\"",
+      "imagePrompt": "Pixar 3D animation style, a beautiful friendly spotted cow (mother figure) carrying a basket of bright red strawberries, smiling warmly, approaching the group of golden retriever bunny and hedgehog, meadow picnic setting, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "咘咘拿了一颗最大的草莓给豆豆。\"给你！这颗最甜！\"豆豆接过草莓，开心地笑了。",
+      "imagePrompt": "Pixar 3D animation style, a cute white bunny offering a big red strawberry to a smiling hedgehog, the hedgehog receiving it with both tiny paws, happy expressions, strawberries scattered around, warm light, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "NOMI 和 NONO 也来了。大家坐在一起吃草莓。豆豆把自己的草莓分了一半给 NONO。\"你也吃！\"",
+      "imagePrompt": "Pixar 3D animation style, five friends sitting in a circle on grass eating strawberries - white bunny raccoon in blue sweater red bird hedgehog and golden retriever, the hedgehog sharing a strawberry with the red bird, happy picnic scene, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "突然，一只大花猫跑过来想抢大家的草莓！\"那是我的！\"大花猫伸出爪子。",
+      "imagePrompt": "Pixar 3D animation style, a big orange tabby cat running toward the group aggressively trying to grab strawberries, the friends looking startled, meadow scene, slightly dramatic but still cute, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "豆豆勇敢地站在大家前面，把身体的刺竖起来。\"不可以抢别人的东西！\"大花猫看到满身的刺，吓得跑走了。",
+      "imagePrompt": "Pixar 3D animation style, a brave small hedgehog with spines fully raised standing protectively in front of the group of friends, facing an orange cat who is backing away scared, heroic moment, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "\"豆豆好厉害！\"大家一起拍手。咘咘抱住豆豆——小心地抱他没有刺的肚子。\"你看！你的刺保护了我们所有人！\"",
+      "imagePrompt": "Pixar 3D animation style, a white bunny carefully hugging a proud hedgehog on the belly side (no spines), other friends cheering around them - raccoon red bird golden retriever cow, celebration, warm joyful scene, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "从那天起，豆豆有了好多好多朋友。每个人都不一样，但每个人都很特别。晚上回家的路上，Tina 妈妈牵着咘咘的手说：\"你今天交了一个很棒的新朋友。\"咘咘点点头：\"因为我先跟他说了你好呀！\"",
+      "imagePrompt": "Pixar 3D animation style, a spotted cow mother holding hands with a white baby bunny walking home on a path at sunset, the hedgehog waving goodbye in the background with other friends, golden hour light, warm and heartfelt ending, children's picture book, vertical portrait composition"
+    },
+    {
+      "text": "💡 咘咘今天学到了：每个人都不一样，有的人看起来不好接近，但可能只是害羞。主动说\"你好\"，愿意分享，不抢别人的东西，就能交到好朋友！而且，每个人都有自己特别的地方哦。",
+      "imagePrompt": "Pixar 3D animation style, all six friends together - white bunny hedgehog raccoon in blue sweater red bird golden retriever dog and spotted cow - group portrait in a beautiful meadow at golden hour, everyone smiling and happy, educational warm scene, children's picture book, vertical portrait composition"
+    }
+  ]
+}
