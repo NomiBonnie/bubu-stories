@@ -7,13 +7,15 @@ import story0320 from '../stories/2026-03-20.json'
 import story0321 from '../stories/2026-03-21.json'
 import story0322 from '../stories/2026-03-22.json'
 import story0323 from '../stories/2026-03-23.json'
+import story0324 from '../stories/2026-03-24.json'
 
 const storyMap = {
   '2026-03-19': story0319,
   '2026-03-20': story0320,
   '2026-03-21': story0321,
   '2026-03-22': story0322,
-  '2026-03-23': story0323
+  '2026-03-23': story0323,
+  '2026-03-24': story0324
 }
 
 function getRoute() {
