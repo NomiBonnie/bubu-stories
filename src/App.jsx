@@ -2,20 +2,20 @@ import { useState, useEffect } from 'react'
 import StoryReader from './StoryReader'
 import Home from './Home'
 import storiesIndex from '../stories/index.json'
-import story0319 from '../stories/2026-03-19.json'
-import story0320 from '../stories/2026-03-20.json'
-import story0321 from '../stories/2026-03-21.json'
-import story0322 from '../stories/2026-03-22.json'
-import story0323 from '../stories/2026-03-23.json'
-import story0324 from '../stories/2026-03-24.json'
+import story1 from '../stories/story1.json'
+import story2 from '../stories/story2.json'
+import story3 from '../stories/story3.json'
+import story4 from '../stories/story4.json'
+import story5 from '../stories/story5.json'
+import story6 from '../stories/story6.json'
 
 const storyMap = {
-  '2026-03-19': story0319,
-  '2026-03-20': story0320,
-  '2026-03-21': story0321,
-  '2026-03-22': story0322,
-  '2026-03-23': story0323,
-  '2026-03-24': story0324
+  'story1': story1,
+  'story2': story2,
+  'story3': story3,
+  'story4': story4,
+  'story5': story5,
+  'story6': story6
 }
 
 function getRoute() {
@@ -48,7 +48,7 @@ export default function App() {
   }
 
   if (route.view === 'story' && storyMap[route.id]) {
-    return <StoryReader story={storyMap[route.id]} onBack={() => navigate('/')} />
+    return <StoryReader story={storyMap[route.id]} storyId={route.id} onBack={() => navigate('/')} />
   }
   return <Home stories={storiesIndex} onSelect={(id) => navigate(`/story/${id}`)} />
 }

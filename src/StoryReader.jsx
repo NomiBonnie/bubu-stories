@@ -3,11 +3,11 @@ import './StoryReader.css'
 
 const BASE = import.meta.env.BASE_URL
 
-function imgUrl(date, pageNum) {
-  return `${BASE}images/${date}/page-${String(pageNum).padStart(2, '0')}.jpg`
+function imgUrl(id, pageNum) {
+  return `${BASE}images/${id}/page-${String(pageNum).padStart(2, '0')}.jpg`
 }
 
-export default function StoryReader({ story, onBack }) {
+export default function StoryReader({ story, storyId, onBack }) {
   const [page, setPage] = useState(0)
   const touchRef = useRef(null)
   const total = story.pages.length
@@ -27,10 +27,10 @@ export default function StoryReader({ story, onBack }) {
       const next = page + i
       if (next < total) {
         const img = new Image()
-        img.src = imgUrl(story.date, next + 1)
+        img.src = imgUrl(storyId, next + 1)
       }
     }
-  }, [page, total, story.date])
+  }, [page, total, storyId])
 
   const onTouchStart = (e) => { touchRef.current = e.touches[0].clientX }
   const onTouchEnd = (e) => {
@@ -56,7 +56,7 @@ export default function StoryReader({ story, onBack }) {
   }, [go, onBack])
 
   const p = story.pages[page]
-  const imgSrc = imgUrl(story.date, page + 1)
+  const imgSrc = imgUrl(storyId, page + 1)
 
   return (
     <div
