@@ -2,6 +2,7 @@
   {
     "id": "story3",
     "title": "小刺猬的新朋友",
+    "chapter": 6,
     "pages": 13,
     "cover": "page-05",
     "tags": ["不打架", "用嘴巴说", "交朋友"]
@@ -9,6 +10,7 @@
   {
     "id": "story6",
     "title": "咘咘学会等一等",
+    "chapter": 5,
     "pages": 15,
     "cover": "page-06",
     "tags": ["耐心", "等待", "好习惯"]
@@ -16,6 +18,7 @@
   {
     "id": "story5",
     "title": "咘咘学会说你好",
+    "chapter": 4,
     "pages": 15,
     "cover": "page-07",
     "tags": ["礼貌", "打招呼", "交朋友"]
@@ -23,6 +26,7 @@
   {
     "id": "story4",
     "title": "咘咘学会说对不起",
+    "chapter": 3,
     "pages": 15,
     "cover": "page-04",
     "tags": ["道歉", "合作", "勇气"]
@@ -30,6 +34,7 @@
   {
     "id": "story2",
     "title": "彩虹桥在哪里",
+    "chapter": 2,
     "pages": 15,
     "cover": "page-05",
     "tags": ["好奇心", "观察力", "友情"]
@@ -37,6 +42,7 @@
   {
     "id": "story1",
     "title": "小兔子找月亮",
+    "chapter": 1,
     "pages": 15,
     "cover": "page-04",
     "tags": ["好奇心", "友情", "不怕困难"]

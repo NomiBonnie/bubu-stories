@@ -21,6 +21,7 @@ export default function Home({ stories, onSelect }) {
                 {s.tags && (
                   <p className="story-card-tags">{s.tags.join('  ·  ')}</p>
                 )}
+                {s.chapter && <p className="story-card-chapter">Chapter {s.chapter}</p>}
                 <p className="story-card-meta">{s.pages} pages</p>
               </div>
             </div>
