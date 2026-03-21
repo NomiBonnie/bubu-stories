@@ -1,5 +1,12 @@
 [
   {
+    "id": "story3",
+    "title": "小刺猬的新朋友",
+    "pages": 13,
+    "cover": "page-05",
+    "tags": ["不打架", "用嘴巴说", "交朋友"]
+  },
+  {
     "id": "story6",
     "title": "咘咘学会等一等",
     "pages": 15,
@@ -19,13 +26,6 @@
     "pages": 15,
     "cover": "page-04",
     "tags": ["道歉", "合作", "勇气"]
-  },
-  {
-    "id": "story3",
-    "title": "小刺猬的新朋友",
-    "pages": 13,
-    "cover": "page-05",
-    "tags": ["不打架", "用嘴巴说", "交朋友"]
   },
   {
     "id": "story2",
