@@ -13,16 +13,16 @@ export default function Home({ stories, onSelect }) {
           const coverImg = `${BASE}images/${s.id}/${s.cover}.jpg`
           return (
             <div key={s.id} className="story-card" onClick={() => onSelect(s.id)}>
-              <div className="story-card-img-wrap">
-                <img src={coverImg} alt={s.title} className="story-card-img" />
-              </div>
               <div className="story-card-info">
                 {s.chapter && <p className="story-card-chapter">Chapter {s.chapter}</p>}
                 <h2 className="story-card-title">{s.title}</h2>
-                {s.tags && (
-                  <p className="story-card-tags">{s.tags.join('  ·  ')}</p>
-                )}
               </div>
+              <div className="story-card-img-wrap">
+                <img src={coverImg} alt={s.title} className="story-card-img" />
+              </div>
+              {s.tags && (
+                <p className="story-card-tags">{s.tags.join('  ·  ')}</p>
+              )}
             </div>
           )
         })}
