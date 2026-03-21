@@ -17,12 +17,11 @@ export default function Home({ stories, onSelect }) {
                 <img src={coverImg} alt={s.title} className="story-card-img" />
               </div>
               <div className="story-card-info">
+                {s.chapter && <p className="story-card-chapter">Chapter {s.chapter}</p>}
                 <h2 className="story-card-title">{s.title}</h2>
                 {s.tags && (
                   <p className="story-card-tags">{s.tags.join('  ·  ')}</p>
                 )}
-                {s.chapter && <p className="story-card-chapter">Chapter {s.chapter}</p>}
-                <p className="story-card-meta">{s.pages} pages</p>
               </div>
             </div>
           )
