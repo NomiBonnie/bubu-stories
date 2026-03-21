@@ -1,11 +1,12 @@
 .reader {
-  min-height: 100vh;
+  height: 100vh;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   background: var(--bg-dark);
   cursor: pointer;
+  overflow: hidden;
 }
 
 .reader-img {
@@ -13,11 +14,13 @@
   display: block;
 }
 
-/* Desktop: constrain image height so it doesn't dominate the viewport */
+/* Desktop: image fills remaining space after text/dots, fitting viewport exactly */
 @media (min-width: 769px) {
   .reader-img {
+    flex: 1 1 0;
     width: auto;
-    max-height: 55vh;
+    min-height: 0;
+    object-fit: contain;
     margin: 0 auto;
   }
 }
