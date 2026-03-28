@@ -5,7 +5,7 @@ const BASE = import.meta.env.BASE_URL
 export default function Home({ stories, onSelect }) {
   return (
     <div className="home">
-      <h1 className="home-header">Bubu's Stories</h1>
+      <h1 className="home-header">The Bedtime Story</h1>
       <p className="home-subtitle">咘咘的睡前故事</p>
       <div className="home-divider" />
       <div className="stories-grid">
