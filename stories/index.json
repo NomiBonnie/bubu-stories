@@ -1,5 +1,19 @@
 [
   {
+    "id": "story8",
+    "title": "咘咘坐飞机",
+    "chapter": 8,
+    "pages": 16,
+    "cover": "page-07",
+    "tags": [
+      "勇敢",
+      "新环境",
+      "交朋友",
+      "坐飞机",
+      "好奇心"
+    ]
+  },
+  {
     "id": "story7",
     "title": "猪猪不怕打针",
     "chapter": 7,
