@@ -1,0 +1,70 @@
+{
+  "title": "咘咘早点睡",
+  "cover": "page-06",
+  "pages": [
+    {
+      "text": "天黑了，月亮爬上了树梢。森林里的小动物们都开始打哈欠了。",
+      "imagePrompt": "Pixar 3D animation style, a peaceful forest village at dusk, crescent moon rising above treetops, warm orange-to-blue gradient sky, tiny cozy cottages with glowing windows nestled among trees, fireflies starting to appear, dreamy children's picture book illustration, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "豆豆第一个回家了。\"我好困呀，明天见！\"小刺猬揉着眼睛，慢慢走进了自己的小洞。",
+      "imagePrompt": "Pixar 3D animation style, a small round brown hedgehog (Doudou) with dark brown spines, rubbing eyes sleepily, waving goodbye at the entrance of a cozy burrow under a tree root, warm lamplight from inside, nighttime forest path, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "慢慢也回家了。小乌龟把头缩进壳里，轻轻说了一句：\"晚安。\"就不动了。",
+      "imagePrompt": "Pixar 3D animation style, a small green turtle (Manman) with dark green shell patterns, retracting its head into its shell on a soft leaf bed, eyes slowly closing, cozy corner under a mushroom, warm night lighting, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "NONO 飞回了自己的小窝。小红鸟把翅膀盖在脸上，像盖了一条红被子。",
+      "imagePrompt": "Pixar 3D animation style, a small bright red bird (NoNo) with orange-yellow beak, nestled in a cozy bird nest on a tree branch, tucking its red wing over its face like a blanket, moonlit tree, stars twinkling, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "NOMI 也打了一个大大的哈欠。\"咘咘，我要去睡觉啦，你也要早点睡哦。\"小浣熊抱了抱咘咘，转身回家了。",
+      "imagePrompt": "Pixar 3D animation style, a raccoon (gray-brown fur, black eye mask, ringed tail) wearing a blue-and-white striped sweater, yawning big while hugging a small white baby bunny in a pink dress with pink bow, nighttime forest path with lanterns, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "森林安静下来了。只有咘咘还在外面玩。\"我还不想睡嘛！\"咘咘跺了跺脚。",
+      "imagePrompt": "Pixar 3D animation style, a small white baby bunny (snow-white fur, pink inner ears, brown eyes) in a pink dress with pink bow, standing alone in a quiet moonlit forest clearing, stomping foot stubbornly, all cottage windows dark except one, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "Tina 妈妈走过来，牵起咘咘的手：\"宝贝，已经十点了。小朋友们都睡了，咘咘也该回家了。\"",
+      "imagePrompt": "Pixar 3D animation style, a black-and-white spotted cow (Tina mama) wearing an elegant knit cardigan and skirt, gently holding the hand of a small white baby bunny in a pink dress, moonlit forest path, warm and loving expression, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "回到家，Sam 爸爸已经放好了洗澡水。\"咘咘，先洗澡澡吧！\"浴缸里冒着暖暖的泡泡。",
+      "imagePrompt": "Pixar 3D animation style, a golden retriever (Sam papa) wearing a casual dark sweater, kneeling by a cute round bathtub full of warm bubbles, gesturing welcomingly, cozy bathroom with wooden walls and warm lighting, rubber duck toy on the edge, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "咘咘跳进浴缸，泡泡飞得到处都是！\"哈哈哈！\"咘咘拍着水花，开心极了。",
+      "imagePrompt": "Pixar 3D animation style, a small white baby bunny in a bubbly bathtub, splashing water happily, soap bubbles floating everywhere, rubber duck beside her, golden retriever watching and laughing from the side, cozy warm bathroom, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "洗完澡，Tina 妈妈拿来了牙刷：\"咘咘，该刷牙了。上面刷刷，下面刷刷，里面也要刷到哦。\"",
+      "imagePrompt": "Pixar 3D animation style, a black-and-white cow in elegant clothes handing a small pink toothbrush to a white baby bunny wrapped in a fluffy towel, bunny standing on a step stool at the bathroom sink, mirror reflection visible, warm bathroom lighting, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "咘咘张大嘴巴，认真地刷。\"啊——\"上面刷刷，下面刷刷。泡沫像白胡子一样挂在嘴边，咘咘对着镜子笑了。",
+      "imagePrompt": "Pixar 3D animation style, a white baby bunny standing on a step stool brushing teeth enthusiastically, toothpaste foam around mouth like a white beard, looking at mirror and giggling, cute bathroom with bunny-themed decorations, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "Sam 爸爸帮咘咘换上了软软的睡衣。粉色的，上面有小星星。\"好舒服呀！\"咘咘转了一个圈。",
+      "imagePrompt": "Pixar 3D animation style, a golden retriever helping a white baby bunny put on pink pajamas with little star patterns, the bunny twirling happily, cozy bedroom with warm lamplight, a small bed with star-patterned blanket visible, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "最后，Tina 妈妈用吹风机帮咘咘吹头发。\"呜——\"暖暖的风吹过耳朵，咘咘眯起了眼睛，好舒服。",
+      "imagePrompt": "Pixar 3D animation style, a black-and-white cow gently blow-drying a white baby bunny's long ears with a small pink hair dryer, bunny sitting on a cushion with eyes half-closed contentedly, soft warm bedroom lighting, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "咘咘爬上小床，Tina 妈妈帮她盖好被子。Sam 爸爸坐在床边：\"咘咘今天真棒，自己洗澡、刷牙、换衣服，都做到了。\"",
+      "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink star pajamas tucked into a cozy small bed with a star-patterned blanket, a golden retriever sitting on the bedside and a black-and-white cow standing nearby, both looking lovingly at the bunny, warm bedroom with nightlight, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "\"月亮也睡了，星星也睡了，豆豆睡了，慢慢睡了，NONO 睡了，NOMI 也睡了。现在，咘咘也要睡了。\"",
+      "imagePrompt": "Pixar 3D animation style, a dreamy split scene showing sleeping animals: a hedgehog curled up, a turtle in shell, a red bird in nest, a raccoon in blue striped sweater hugging a pillow, moon with closed eyes, all in soft dreamy cloud bubbles, starry night sky background, children's picture book, vertical portrait composition 1024x1536"
+    },
+    {
+      "text": "咘咘闭上眼睛，小声说：\"晚安，爸爸。晚安，妈妈。晚安，月亮。\"不一会儿，咘咘就甜甜地睡着了。",
+      "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink star pajamas sleeping peacefully in bed with a gentle smile, a golden retriever and black-and-white cow tiptoeing away from the bed, moonlight streaming through the window casting a soft blue glow, a small nightlight shaped like a star, the most peaceful and warm scene, children's picture book, vertical portrait composition 1024x1536"
+    }
+  ]
+}

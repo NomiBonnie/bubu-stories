@@ -1,5 +1,18 @@
 [
   {
+    "id": "story9",
+    "title": "咘咘早点睡",
+    "chapter": 9,
+    "pages": 16,
+    "cover": "page-07",
+    "tags": [
+      "早睡",
+      "好习惯",
+      "睡前流程",
+      "爸爸妈妈"
+    ]
+  },
+  {
     "id": "story8",
     "title": "咘咘坐飞机",
     "chapter": 8,
