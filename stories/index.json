@@ -1,5 +1,18 @@
 [
   {
+    "id": "story12",
+    "title": "咘咘自己走",
+    "chapter": 12,
+    "pages": 16,
+    "cover": "page-07",
+    "tags": [
+      "自己走路",
+      "不要抱抱",
+      "独立",
+      "长大"
+    ]
+  },
+  {
     "id": "story11",
     "title": "咘咘坐小马桶",
     "chapter": 11,
