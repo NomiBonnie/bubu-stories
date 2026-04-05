@@ -8,7 +8,9 @@
       "游乐场"
     ],
     "createdAt": "2026-04-05",
-    "cover": "page-01"
+    "cover": "page-01",
+    "chapter": 15,
+    "pages": 12
   },
   {
     "id": "story14",
