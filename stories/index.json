@@ -1,5 +1,13 @@
 [
   {
+    "id": "story20",
+    "title": "咘咘的樱花单车之旅",
+    "chapter": 20,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": ["爸爸妈妈", "樱花", "单车", "春天"]
+  },
+  {
     "id": "story19",
     "title": "咘咘去摘草莓",
     "chapter": 19,
