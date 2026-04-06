@@ -1,5 +1,13 @@
 [
   {
+    "id": "story18",
+    "title": "咘咘坐好吃饭饭",
+    "chapter": 18,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": ["吃饭", "坐好", "好习惯", "餐椅"]
+  },
+  {
     "id": "story17",
     "title": "咘咘的午觉超能力",
     "chapter": 17,
