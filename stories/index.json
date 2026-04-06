@@ -1,5 +1,17 @@
 [
   {
+    "id": "story16",
+    "title": "咘咘刷牙亮晶晶",
+    "chapter": 16,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": [
+      "刷牙",
+      "卫生习惯",
+      "滋滋滋"
+    ]
+  },
+  {
     "id": "story15",
     "title": "咘咘去游乐场",
     "tags": [
