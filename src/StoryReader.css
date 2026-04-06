@@ -27,7 +27,7 @@
 
 .reader-text {
   padding: 20px 28px;
-  text-align: center;
+  text-align: left;
   color: #F5F0EB;
   font-family: 'Noto Sans SC', serif;
   font-size: 18px;
@@ -37,7 +37,7 @@
   min-height: 80px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 @media (max-width: 480px) {
