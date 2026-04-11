@@ -1,66 +1,67 @@
 {
   "title": "彩虹桥在哪里",
+  "title_en": "Where Is the Rainbow",
   "cover": "page-05",
   "pages": [
     {
       "text": "下过雨的早晨，天空出现了一道好大好大的彩虹。咘咘趴在窗户上看呆了。",
-      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny with long ears pressing face against a window, looking out at a huge beautiful rainbow in the sky after rain, water droplets on window, morning light, children's picture book, vertical portrait composition"
+      "text_en": "After the rain, a big rainbow appeared in the sky. Bubu looked out the window, amazed."
     },
     {
-      "text": "\"彩虹好漂亮！我想摸摸它！\"咘咘跳下窗台，冲出了家门。",
-      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny excitedly jumping out of a cozy cottage door into a wet garden, rainbow visible in sky, puddles on ground reflecting colors, children's picture book, vertical portrait composition"
+      "text": "彩虹好漂亮！我想摸摸它！咘咘跳下窗台，冲出了家门。",
+      "text_en": "The rainbow is so pretty! I want to touch it! Bubu jumped down and ran outside."
     },
     {
       "text": "咘咘跑啊跑，跑到了小山坡上。可是彩虹看起来还是好远好远。",
-      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny standing on top of a green hill looking at a distant rainbow, the rainbow seems far away, wet grass, morning mist, children's picture book, vertical portrait composition"
+      "text_en": "Bubu ran and ran to the hill. But the rainbow still looked far away."
     },
     {
-      "text": "NOMI 正好在山坡上采蘑菇。\"咘咘，你跑这么快干嘛呀？\"\"我要去摸彩虹！你知道彩虹在哪里吗？\"",
-      "imagePrompt": "Pixar 3D animation style, a cute raccoon wearing blue striped sweater holding a basket of colorful mushrooms, talking to a white baby bunny on a wet green hillside, rainbow in background, children's picture book, vertical portrait composition"
+      "text": "NOMI 正好在山坡上采蘑菇。咘咘，你跑这么快干嘛呀？我要去摸彩虹！你知道彩虹在哪里吗？",
+      "text_en": "NOMI was picking mushrooms on the hill. Bubu, why are you running so fast? I want to touch the rainbow! Do you know where it is?"
     },
     {
-      "text": "NOMI 想了想说：\"我听说彩虹的尽头在森林那边。我们一起去找！\"",
-      "imagePrompt": "Pixar 3D animation style, a cute raccoon in blue sweater and white baby bunny walking together toward a misty forest, rainbow arching over the forest, adventure feeling, wet path with puddles, children's picture book, vertical portrait composition"
+      "text": "NOMI 想了想说：我听说彩虹的尽头在森林那边。我们一起去找！",
+      "text_en": "NOMI thought for a moment. I heard the rainbow ends in the forest. Let's go find it together!"
     },
     {
-      "text": "走着走着，他们遇到了 NONO。NONO 正在树枝上甩翅膀上的雨水。\"你们去哪呀？\"\"去找彩虹！\"\"太好了，我飞上去看看彩虹到底在哪里！\"",
-      "imagePrompt": "Pixar 3D animation style, a cute red bird shaking water droplets off wings on a tree branch, a white bunny and raccoon in blue sweater looking up at the bird, forest setting after rain, children's picture book, vertical portrait composition"
+      "text": "走着走着，他们遇到了 NONO。NONO 正在树枝上甩翅膀上的雨水。你们去哪呀？去找彩虹！太好了，我飞上去看看彩虹到底在哪里！",
+      "text_en": "Along the way, they met NONO shaking rain off his wings. Where are you going? To find the rainbow! Great! I'll fly up and see where it is!"
     },
     {
-      "text": "NONO 飞得高高的，飞到了云的旁边。\"我看到了！彩虹在河边！快跟我来！\"",
-      "imagePrompt": "Pixar 3D animation style, a cute red bird flying high near fluffy white clouds, looking down and pointing toward a sparkling river below, rainbow touching near the river, aerial view, children's picture book, vertical portrait composition"
+      "text": "NONO 飞得高高的，飞到了云的旁边。我看到了！彩虹在河边！快跟我来！",
+      "text_en": "NONO flew high, up near the clouds. I see it! The rainbow is by the river! Follow me!"
     },
     {
       "text": "三个好朋友跑到了河边。可是到了河边一看，彩虹又跑到更远的地方去了！",
-      "imagePrompt": "Pixar 3D animation style, three friends - white bunny raccoon in blue sweater and red bird - standing at a river bank looking disappointed, rainbow has moved further away across the river, sparkling water, children's picture book, vertical portrait composition"
+      "text_en": "The three friends ran to the river. But when they got there, the rainbow had moved even farther away!"
     },
     {
-      "text": "\"怎么办？彩虹一直在跑！\"咘咘有点累了，坐在了河边的石头上。",
-      "imagePrompt": "Pixar 3D animation style, a tired cute white baby bunny sitting on a round stone by the river, looking sad, raccoon and red bird sitting beside comforting, rainbow fading in distant sky, children's picture book, vertical portrait composition"
+      "text": "怎么办？彩虹一直在跑！咘咘有点累了，坐在了河边的石头上。",
+      "text_en": "What should we do? The rainbow keeps moving! Bubu was tired and sat on a stone by the river."
     },
     {
-      "text": "这时候，NOMI 看到了河水里有什么东西在闪。\"咘咘你看！\"河面上，阳光照着水花，变出了好多好多小彩虹！",
-      "imagePrompt": "Pixar 3D animation style, sunlight hitting river water spray creating many small rainbows and prismatic light effects, raccoon in blue sweater pointing excitedly at the water, white bunny and red bird looking amazed, magical sparkling scene, children's picture book, vertical portrait composition"
+      "text": "这时候，NOMI 看到了河水里有什么东西在闪。咘咘你看！河面上，阳光照着水花，变出了好多好多小彩虹！",
+      "text_en": "Then NOMI saw something sparkling in the water. Bubu, look! The sunlight on the water made many little rainbows!"
     },
     {
-      "text": "咘咘伸出小爪子，水花溅在手上，一道小小的彩虹就在她的手心里！\"我摸到彩虹了！\"咘咘开心地叫起来。",
-      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny holding up paws with water droplets, a tiny rainbow appearing in the water mist on the bunny's paws, pure joy expression, sunlight backlighting creating magical glow, children's picture book, vertical portrait composition"
+      "text": "咘咘伸出小爪子，水花溅在手上，一道小小的彩虹就在她的手心里！我摸到彩虹了！咘咘开心地叫起来。",
+      "text_en": "Bubu reached out her paw. Water splashed on her hand, and a tiny rainbow appeared! I touched a rainbow! Bubu cheered."
     },
     {
-      "text": "NONO 也飞到瀑布旁边，翅膀一扇，水雾里也出现了一道彩虹。\"我也有彩虹！\"",
-      "imagePrompt": "Pixar 3D animation style, a cute red bird flapping wings near a small waterfall creating mist, a rainbow appearing in the mist spray, bird looking delighted, forest waterfall setting, magical atmosphere, children's picture book, vertical portrait composition"
+      "text": "NONO 也飞到瀑布旁边，翅膀一扇，水雾里也出现了一道彩虹。我也有彩虹！",
+      "text_en": "NONO flew to the waterfall and flapped his wings. A rainbow appeared in the mist! I have a rainbow too!"
     },
     {
-      "text": "NOMI 笑着说：\"原来彩虹不用追，有阳光有水的地方，就有彩虹。\"",
-      "imagePrompt": "Pixar 3D animation style, a cute raccoon in blue sweater smiling wisely, surrounded by multiple small rainbows in water spray and mist, sunbeams through trees, forest river setting, warm and magical, children's picture book, vertical portrait composition"
+      "text": "NOMI 笑着说：原来彩虹不用追，有阳光有水的地方，就有彩虹。",
+      "text_en": "NOMI smiled. We don't need to chase rainbows. Wherever there's sun and water, there's a rainbow."
     },
     {
-      "text": "回家的路上，咘咘一路蹦蹦跳跳，踩着水坑，每个水坑里都有小小的彩虹。\"今天是最棒的一天！\"晚安，咘咘。明天还会有新的彩虹等着你。",
-      "imagePrompt": "Pixar 3D animation style, a happy white baby bunny jumping in puddles on a path home at sunset, small rainbows in each puddle, raccoon and red bird walking alongside, golden hour lighting, warm and joyful, children's picture book, vertical portrait composition"
+      "text": "回家的路上，咘咘一路蹦蹦跳跳，踩着水坑，每个水坑里都有小小的彩虹。今天是最棒的一天！晚安，咘咘。明天还会有新的彩虹等着你。",
+      "text_en": "On the way home, Bubu hopped and jumped in puddles. Each puddle had a little rainbow. Today was the best day! Good night, Bubu. Tomorrow, new rainbows will be waiting."
     },
     {
       "text": "💡 咘咘今天学到了：有些美好的东西，追是追不到的。但只要留心观察身边，就会发现美好一直都在！有阳光有水的地方，就有彩虹哦。",
-      "imagePrompt": "Pixar 3D animation style, three friends - white bunny raccoon in blue sweater and red bird - sitting together watching sunset with multiple rainbows in sky and water, peaceful and educational scene, warm golden light, children's picture book, vertical portrait composition"
+      "text_en": "💡 Bubu learned: Some beautiful things can't be caught by chasing. But if you look closely around you, you'll find beauty everywhere! Wherever there's sun and water, there's a rainbow."
     }
   ]
 }

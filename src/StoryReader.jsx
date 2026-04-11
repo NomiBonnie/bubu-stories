@@ -7,7 +7,7 @@ function imgUrl(id, pageNum) {
   return `${BASE}images/${id}/page-${String(pageNum).padStart(2, '0')}.jpg`
 }
 
-export default function StoryReader({ story, storyId, onBack }) {
+export default function StoryReader({ story, storyId, onBack, lang, toggleLang }) {
   const [page, setPage] = useState(0)
   const touchRef = useRef(null)
   const total = story.pages.length
@@ -66,9 +66,10 @@ export default function StoryReader({ story, storyId, onBack }) {
       onTouchEnd={onTouchEnd}
     >
       <button className="reader-back" onClick={(e) => { e.stopPropagation(); onBack() }}>←</button>
+      <button className="reader-lang" onClick={(e) => { e.stopPropagation(); toggleLang() }}>{lang === 'zh' ? 'EN' : '中'}</button>
       <img className="reader-img" src={imgSrc} alt={`Page ${page + 1}`} />
       <div className="reader-text">
-        <p>{p.text}</p>
+        <p>{lang === 'en' ? (p.text_en || p.text) : p.text}</p>
       </div>
       <div className="reader-dots">
         {story.pages.map((_, i) => (

@@ -1,54 +1,71 @@
 {
   "title": "猪猪不怕打针",
+  "title_en": "Zhuzhu is Brave for the Doctor",
   "cover": "page-05",
   "pages": [
     {
-      "text": "咘咘有一个好朋友，是一只白白胖胖的小绵羊，名字叫猪猪。猪猪的毛软软的，像一朵云。"
+      "text": "咘咘有一个好朋友，是一只白白胖胖的小绵羊，名字叫猪猪。猪猪的毛软软的，像一朵云。",
+      "text_en": "Bubu had a good friend, a fluffy, chubby little lamb named Zhuzhu. Zhuzhu’s wool was soft, just like a cloud."
     },
     {
-      "text": "今天猪猪有点不舒服，鼻子红红的，还打了好几个喷嚏。羊妈妈摸摸猪猪的额头说：“猪猪，我们去医院看看好不好？”"
+      "text": "今天猪猪有点不舒服，鼻子红红的，还打了好几个喷嚏。羊妈妈摸摸猪猪的额头说：\"猪猪，我们去医院看看好不好？\"",
+      "text_en": "Today, Zhuzhu wasn’t feeling well. His nose was red, and he sneezed several times. Mama Sheep touched his forehead and said, \"Zhuzhu, how about we go visit the doctor?\""
     },
     {
-      "text": "猪猪有点害怕，缩在妈妈后面。“医院……会不会很可怕呀？”"
+      "text": "猪猪有点害怕，缩在妈妈后面。\"医院……会不会很可怕呀？\"",
+      "text_en": "Zhuzhu felt scared and hid behind his mama. \"The doctor...will it be scary?\""
     },
     {
-      "text": "咘咘拉着猪猪的手说：“猪猪不怕！我陪你一起去！”"
+      "text": "咘咘拉着猪猪的手说：\"猪猪不怕！我陪你一起去！\"",
+      "text_en": "Bubu held Zhuzhu’s hand and said, \"Zhuzhu, don’t be scared! I’ll go with you!\""
     },
     {
-      "text": "医院到了！门口有一棵大树，树上挂着彩色的小灯笼。医院一点都不黑，到处都是亮亮的、暖暖的。"
+      "text": "医院到了！门口有一棵大树，树上挂着彩色的小灯笼。医院一点都不黑，到处都是亮亮的、暖暖的。",
+      "text_en": "They arrived at the hospital! At the entrance, there was a big tree decorated with colorful lanterns. The hospital wasn’t dark at all—it was bright and warm everywhere."
     },
     {
-      "text": "长颈鹿医生笑眯眯地走过来，她穿着白白的大褂，脖子上挂着一个听诊器。“你好呀小猪猪，让我听听你的肚子好不好？”"
+      "text": "长颈鹿医生笑眯眯地走过来，她穿着白白的大褂，脖子上挂着一个听诊器。\"你好呀小猪猪，让我听听你的肚子好不好？\"",
+      "text_en": "Dr. Giraffe came over with a big smile. She was wearing a white coat and had a stethoscope around her neck. \"Hello, little Zhuzhu. Let me check your tummy, okay?\""
     },
     {
-      "text": "听诊器凉凉的，猪猪缩了一下。长颈鹿医生说：“没事的，就像小蝴蝶停在你身上一样轻轻的。”猪猪安心了。"
+      "text": "听诊器凉凉的，猪猪缩了一下。长颈鹿医生说：\"没事的，就像小蝴蝶停在你身上一样轻轻的。\"猪猪安心了。",
+      "text_en": "The stethoscope felt cold, and Zhuzhu pulled back a little. Dr. Giraffe said: \"Don’t worry, it’s just like a butterfly gently landing on you.\" Zhuzhu felt better."
     },
     {
-      "text": "长颈鹿医生说：“猪猪感冒了，需要打一针，这样才能快快好起来哦。”"
+      "text": "长颈鹿医生说：\"猪猪感冒了，需要打一针，这样才能快快好起来哦。\"",
+      "text_en": "Dr. Giraffe said: \"Zhuzhu has a little cold and needs a shot to get better quickly.\""
     },
     {
-      "text": "猪猪的眼睛红了。他小声问：“打针……很疼吗？”"
+      "text": "猪猪的眼睛红了。他小声问：\"打针……很疼吗？\"",
+      "text_en": "Zhuzhu’s eyes turned red. He asked softly: \"Is the shot...very painful?\""
     },
     {
-      "text": "咘咘握紧猪猪的手，说：“猪猪你看着我！我们一起数1、2、3，数完就好了！”"
+      "text": "咘咘握紧猪猪的手，说：\"猪猪你看着我！我们一起数1、2、3，数完就好了！\"",
+      "text_en": "Bubu held Zhuzhu’s hand tightly and said, \"Zhuzhu, look at me! Let’s count together, 1, 2, 3, and it’ll be over!\""
     },
     {
-      "text": "小兔子护士轻轻地在猪猪手臂上擦了一下，凉凉的。然后——“1、2、3！”咘咘和猪猪一起大声数。针扎了一下，就像被小蚂蚁咬了一口。"
+      "text": "小兔子护士轻轻地在猪猪手臂上擦了一下，凉凉的。然后——\"1、2、3！\"咘咘和猪猪一起大声数。针扎了一下，就像被小蚂蚁咬了一口。",
+      "text_en": "Nurse Bunny gently wiped Zhuzhu’s arm—it felt cold. Then—\"1, 2, 3!\" Bubu and Zhuzhu counted loudly together. The needle prickled only slightly, like a tiny ant bite."
     },
     {
-      "text": "“好啦！打完啦！”小兔子护士给猪猪的手臂贴了一个星星创可贴。猪猪低头一看——哇，好漂亮的星星！"
+      "text": "\"好啦！打完啦！\"小兔子护士给猪猪的手臂贴了一个星星创可贴。猪猪低头一看——哇，好漂亮的星星！",
+      "text_en": "\"All done!\" Nurse Bunny placed a star-shaped bandage on Zhuzhu’s arm. Zhuzhu looked down—wow, what a pretty star!"
     },
     {
-      "text": "猪猪开心地笑了：“原来打针一点都不可怕呀！”他把手臂举起来给咘咘看星星贴纸。"
+      "text": "猪猪开心地笑了：\"原来打针一点都不可怕呀！\"他把手臂举起来给咘咘看星星贴纸。",
+      "text_en": "Zhuzhu smiled happily: \"The shot wasn’t scary at all!\" He raised his arm to show Bubu the star sticker."
     },
     {
-      "text": "长颈鹿医生摸摸猪猪的头：“猪猪真勇敢！医院里的叔叔阿姨都是帮助小朋友的，不用害怕哦。”"
+      "text": "长颈鹿医生摸摸猪猪的头：\"猪猪真勇敢！医院里的叔叔阿姨都是帮助小朋友的，不用害怕哦。\"",
+      "text_en": "Dr. Giraffe patted Zhuzhu’s head: \"Zhuzhu, you’re so brave! The doctors and nurses are all here to help little ones like you. You don’t need to be afraid.\""
     },
     {
-      "text": "回家的路上，猪猪蹦蹦跳跳的。他跟咘咘说：“下次你去医院，我也陪你！我们是勇敢小队！”"
+      "text": "回家的路上，猪猪蹦蹦跳跳的。他跟咘咘说：\"下次你去医院，我也陪你！我们是勇敢小队！\"",
+      "text_en": "On the way home, Zhuzhu hopped happily. He said to Bubu: \"Next time you need to go to the doctor, I’ll go with you! We’re the Brave Team!\""
     },
     {
-      "text": "💡 猪猪今天学到了：医院不可怕，医生和护士都是帮助我们的好朋友。打针就像被小蚂蚁咬一下，数到3就好了！勇敢的小朋友最棒！"
+      "text": "💡 猪猪今天学到了：医院不可怕，医生和护士都是帮助我们的好朋友。打针就像被小蚂蚁咬一下，数到3就好了！勇敢的小朋友最棒！",
+      "text_en": "💡 Zhuzhu learned today: The doctor isn’t scary; doctors and nurses are our friendly helpers. A shot feels just like a tiny ant bite and is over after counting to 3! Brave kids are the best!"
     }
   ]
 }

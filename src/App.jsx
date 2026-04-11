@@ -62,6 +62,15 @@ function getRoute() {
 
 export default function App() {
   const [route, setRoute] = useState(getRoute)
+  const [lang, setLang] = useState(() => localStorage.getItem('bubu-lang') || 'zh')
+
+  const toggleLang = () => {
+    setLang(prev => {
+      const next = prev === 'zh' ? 'en' : 'zh'
+      localStorage.setItem('bubu-lang', next)
+      return next
+    })
+  }
 
   useEffect(() => {
     const handler = () => setRoute(getRoute())
@@ -82,7 +91,7 @@ export default function App() {
   }
 
   if (route.view === 'story' && storyMap[route.id]) {
-    return <StoryReader story={storyMap[route.id]} storyId={route.id} onBack={() => navigate('/')} />
+    return <StoryReader story={storyMap[route.id]} storyId={route.id} onBack={() => navigate('/')} lang={lang} toggleLang={toggleLang} />
   }
-  return <Home stories={storiesIndex} onSelect={(id) => navigate(`/story/${id}`)} />
+  return <Home stories={storiesIndex} onSelect={(id) => navigate(`/story/${id}`)} lang={lang} toggleLang={toggleLang} />
 }

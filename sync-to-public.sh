@@ -1,0 +1,17 @@
+CHARACTER-BIBLE.md
+COMPLETION_REPORT.md
+README.md
+STORY-CHECKLIST.md
+dist
+eslint.config.js
+generate-images.py
+index.html
+node_modules
+package-lock.json
+package.json
+public
+scripts
+src
+stories
+sync-to-public.sh
+vite.config.js
