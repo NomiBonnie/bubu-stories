@@ -1,5 +1,13 @@
 [
   {
+    "id": "story23",
+    "title": "咘咘第一次去博物馆",
+    "chapter": 23,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": ["勇敢", "博物馆", "增长见识"]
+  },
+  {
     "id": "story22",
     "title": "咘咘和外公外婆去市民广场",
     "chapter": 22,
