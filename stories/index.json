@@ -5,7 +5,12 @@
     "chapter": 23,
     "pages": 12,
     "cover": "page-01",
-    "tags": ["勇敢", "博物馆", "增长见识"]
+    "tags": [
+      "勇敢",
+      "博物馆",
+      "增长见识"
+    ],
+    "title_en": "Bubu's First Museum Visit"
   },
   {
     "id": "story22",
@@ -13,7 +18,13 @@
     "chapter": 22,
     "pages": 12,
     "cover": "page-01",
-    "tags": ["外公外婆", "拍照看镜头", "市民广场", "梅花糕"]
+    "tags": [
+      "外公外婆",
+      "拍照看镜头",
+      "市民广场",
+      "梅花糕"
+    ],
+    "title_en": "Bubu Goes to the Square with Grandpa and Grandma"
   },
   {
     "id": "story21",
@@ -21,7 +32,13 @@
     "chapter": 21,
     "pages": 12,
     "cover": "page-01",
-    "tags": ["坐车车", "好习惯", "探险", "妈妈"]
+    "tags": [
+      "坐车车",
+      "好习惯",
+      "探险",
+      "妈妈"
+    ],
+    "title_en": "Bubu's Fun Little Stroller"
   },
   {
     "id": "story20",
@@ -29,7 +46,13 @@
     "chapter": 20,
     "pages": 12,
     "cover": "page-01",
-    "tags": ["爸爸妈妈", "樱花", "单车", "春天"]
+    "tags": [
+      "爸爸妈妈",
+      "樱花",
+      "单车",
+      "春天"
+    ],
+    "title_en": "Bubu's Cherry Blossom Bike Ride"
   },
   {
     "id": "story19",
@@ -42,7 +65,8 @@
       "清明节",
       "大自然",
       "动手"
-    ]
+    ],
+    "title_en": "Bubu Picks Strawberries"
   },
   {
     "id": "story18",
@@ -55,7 +79,8 @@
       "坐好",
       "好习惯",
       "餐椅"
-    ]
+    ],
+    "title_en": "Bubu Sits Nicely for Dinner"
   },
   {
     "id": "story17",
@@ -68,7 +93,8 @@
       "睡觉",
       "充电",
       "超能力"
-    ]
+    ],
+    "title_en": "Bubu's Nap Superpower"
   },
   {
     "id": "story16",
@@ -80,7 +106,8 @@
       "刷牙",
       "卫生习惯",
       "滋滋滋"
-    ]
+    ],
+    "title_en": "Bubu's Sparkly Teeth"
   },
   {
     "id": "story15",
@@ -93,7 +120,8 @@
     "createdAt": "2026-04-05",
     "cover": "page-01",
     "chapter": 15,
-    "pages": 12
+    "pages": 12,
+    "title_en": "Bubu Goes to the Playground"
   },
   {
     "id": "story14",
@@ -106,7 +134,8 @@
       "热水危险",
       "远远看",
       "咖啡时光"
-    ]
+    ],
+    "title_en": "Bubu Makes Coffee with Daddy and Mommy"
   },
   {
     "id": "story13",
@@ -119,7 +148,8 @@
       "再来一次",
       "自我掌控",
       "试过就好"
-    ]
+    ],
+    "title_en": "Bubu Tries It Again"
   },
   {
     "id": "story12",
@@ -132,7 +162,8 @@
       "不要抱抱",
       "独立",
       "长大"
-    ]
+    ],
+    "title_en": "Bubu Walks on Her Own"
   },
   {
     "id": "story11",
@@ -146,7 +177,8 @@
       "慢慢来",
       "成长",
       "贴纸奖励"
-    ]
+    ],
+    "title_en": "Bubu's Potty Training"
   },
   {
     "id": "story10",
@@ -160,7 +192,8 @@
       "深呼吸",
       "慢慢来",
       "上台"
-    ]
+    ],
+    "title_en": "Bubu Is Not Afraid"
   },
   {
     "id": "story9",
@@ -173,7 +206,8 @@
       "好习惯",
       "睡前流程",
       "爸爸妈妈"
-    ]
+    ],
+    "title_en": "Bubu Goes to Bed Early"
   },
   {
     "id": "story8",
@@ -187,7 +221,8 @@
       "交朋友",
       "坐飞机",
       "好奇心"
-    ]
+    ],
+    "title_en": "Bubu's Plane Adventure"
   },
   {
     "id": "story7",
@@ -200,7 +235,8 @@
       "看医生",
       "打针",
       "友情"
-    ]
+    ],
+    "title_en": "Zhuzhu is Brave for the Doctor"
   },
   {
     "id": "story3",
@@ -212,7 +248,8 @@
       "不打架",
       "用嘴巴说",
       "交朋友"
-    ]
+    ],
+    "title_en": "The Little Hedgehog's New Friend"
   },
   {
     "id": "story6",
@@ -224,7 +261,8 @@
       "耐心",
       "等待",
       "好习惯"
-    ]
+    ],
+    "title_en": "Bubu Learns to Wait"
   },
   {
     "id": "story5",
@@ -236,7 +274,8 @@
       "礼貌",
       "打招呼",
       "交朋友"
-    ]
+    ],
+    "title_en": "Bubu Learns to Say Hello"
   },
   {
     "id": "story4",
@@ -248,7 +287,8 @@
       "道歉",
       "合作",
       "勇气"
-    ]
+    ],
+    "title_en": "Bubu Learns to Say Sorry"
   },
   {
     "id": "story2",
@@ -260,7 +300,8 @@
       "好奇心",
       "观察力",
       "友情"
-    ]
+    ],
+    "title_en": "Where Is the Rainbow"
   },
   {
     "id": "story1",
@@ -272,6 +313,7 @@
       "好奇心",
       "友情",
       "不怕困难"
-    ]
+    ],
+    "title_en": "Bubu Looks for the Moon"
   }
 ]

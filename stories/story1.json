@@ -4,63 +4,79 @@
   "pages": [
     {
       "text": "从前，在一片绿绿的大草地上，住着一只小兔子，名字叫咘咘。咘咘有长长的耳朵，粉粉的鼻子，最喜欢蹦蹦跳跳。",
-      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny with long ears and pink nose, standing in a lush green meadow, golden sunset light, soft and warm, children's picture book illustration, extremely cute and appealing to toddlers, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny with long ears and pink nose, standing in a lush green meadow, golden sunset light, soft and warm, children's picture book illustration, extremely cute and appealing to toddlers, vertical portrait composition",
+      "text_en": "Once upon a time, on a big green meadow, there lived a little bunny named Bubu. Bubu had long floppy ears, a tiny pink nose, and loved to hop, hop, hop!"
     },
     {
       "text": "咘咘有两个最好的朋友。一个是小浣熊 NOMI，她有蓝色的条纹毛衣，特别聪明，什么都会做。",
-      "imagePrompt": "Pixar 3D animation style, a cute raccoon wearing a blue striped sweater, waving happily, big expressive eyes with freckles, lush green meadow background, children's picture book, warm lighting, extremely cute, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute raccoon wearing a blue striped sweater, waving happily, big expressive eyes with freckles, lush green meadow background, children's picture book, warm lighting, extremely cute, vertical portrait composition",
+      "text_en": "Bubu had two very best friends. One was a little raccoon called NOMI. She wore a blue stripy sweater and was super clever — she could do anything!"
     },
     {
       "text": "另一个是小鸟 NONO，他有红红的羽毛，飞得又高又快，特别勇敢。",
-      "imagePrompt": "Pixar 3D animation style, a cute small red bird with bright red feathers, flying cheerfully in blue sky, fluffy clouds, children's picture book illustration, warm and vibrant colors, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute small red bird with bright red feathers, flying cheerfully in blue sky, fluffy clouds, children's picture book illustration, warm and vibrant colors, vertical portrait composition",
+      "text_en": "The other was a little bird called NONO. He had bright red feathers, could fly really high and really fast, and was very, very brave."
     },
     {
       "text": "每天晚上睡觉前，咘咘都会跑到小山坡上，看天上的月亮。“月亮月亮，晚安！”咘咘会大声说。",
-      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny sitting on a small grassy hill, looking up at a big bright full moon in dark blue night sky, stars twinkling, peaceful and dreamy atmosphere, children's picture book, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny sitting on a small grassy hill, looking up at a big bright full moon in dark blue night sky, stars twinkling, peaceful and dreamy atmosphere, children's picture book, vertical portrait composition",
+      "text_en": "Every night before bed, Bubu would run up to the little hill and look at the moon. \"Goodnight, Moon!\" Bubu would call out loud."
     },
     {
       "text": "可是有一天晚上，咘咘抬头一看——咦？月亮不见了！天上黑黑的，一个月亮都没有！",
-      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny looking up at empty dark night sky with worried expression, no moon visible, only a few stars, grassy hill, children's picture book, slightly dramatic lighting, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny looking up at empty dark night sky with worried expression, no moon visible, only a few stars, grassy hill, children's picture book, slightly dramatic lighting, vertical portrait composition",
+      "text_en": "But one night, Bubu looked up and — huh? The moon was gone! The sky was all dark, with no moon at all!"
     },
     {
       "text": "“月亮去哪里了？”咘咘着急了。她赶紧去找好朋友 NOMI 帮忙。",
-      "imagePrompt": "Pixar 3D animation style, a worried cute white baby bunny running through meadow at night toward a treehouse, motion blur, night sky without moon, children's picture book illustration, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a worried cute white baby bunny running through meadow at night toward a treehouse, motion blur, night sky without moon, children's picture book illustration, vertical portrait composition",
+      "text_en": "\"Where did the moon go?\" Bubu was so worried. She hurried off to find her friend NOMI for help."
     },
     {
       "text": "小浣熊 NOMI 正在树洞里看书。“NOMI NOMI，月亮不见了！你能帮我找找吗？”咘咘说。NOMI 推了推眼镜说：“别急，我们一起去找！”",
-      "imagePrompt": "Pixar 3D animation style, a cute raccoon wearing blue striped sweater and tiny glasses reading a book inside a cozy tree hollow, a worried white baby bunny at the entrance, warm lamp light inside, children's picture book, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute raccoon wearing blue striped sweater and tiny glasses reading a book inside a cozy tree hollow, a worried white baby bunny at the entrance, warm lamp light inside, children's picture book, vertical portrait composition",
+      "text_en": "Little raccoon NOMI was reading a book in her cozy tree hollow. \"NOMI, NOMI, the moon is gone! Can you help me find it?\" said Bubu. NOMI pushed up her tiny glasses and said, \"Don't worry — let's go look together!\""
     },
     {
       "text": "小鸟 NONO 也飞过来了。“我从天上找！”NONO 拍拍翅膀，飞得高高的，到处看。",
-      "imagePrompt": "Pixar 3D animation style, a cute red bird flying high in dark night sky searching around, a white bunny and raccoon in blue sweater looking up from below on the ground, stars in sky, children's picture book, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute red bird flying high in dark night sky searching around, a white bunny and raccoon in blue sweater looking up from below on the ground, stars in sky, children's picture book, vertical portrait composition",
+      "text_en": "Little bird NONO flew over too. \"I'll search from the sky!\" NONO flapped his wings and flew way up high, looking everywhere."
     },
     {
       "text": "“我找到了！我找到了！”NONO 从天上喊下来。“月亮在池塘里！快来看！”",
-      "imagePrompt": "Pixar 3D animation style, a cute red bird hovering excitedly above a pond, pointing down with wing, the full moon perfectly reflected in the still water surface, night scene, children's picture book, magical glow, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute red bird hovering excitedly above a pond, pointing down with wing, the full moon perfectly reflected in the still water surface, night scene, children's picture book, magical glow, vertical portrait composition",
+      "text_en": "\"I found it! I found it!\" NONO called down from above. \"The moon is in the pond! Come and see!\""
     },
     {
       "text": "咘咘和 NOMI 跑到池塘边，低头一看——哇！水里真的有一个月亮！圆圆的，亮亮的，好漂亮！",
-      "imagePrompt": "Pixar 3D animation style, a cute white bunny and raccoon in blue sweater looking down into a pond, beautiful full moon reflection in crystal clear water, night scene with fireflies, children's picture book, magical atmosphere, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute white bunny and raccoon in blue sweater looking down into a pond, beautiful full moon reflection in crystal clear water, night scene with fireflies, children's picture book, magical atmosphere, vertical portrait composition",
+      "text_en": "Bubu and NOMI ran to the pond and looked down — wow! There really was a moon in the water! Round and bright and so beautiful!"
     },
     {
       "text": "咘咘伸出小爪子想去捞月亮——扑通！水花溅了大家一脸！月亮碎成了好多小亮片，一闪一闪的。“哎呀！月亮碎了！”咘咘急得快哭了。",
-      "imagePrompt": "Pixar 3D animation style, a cute white bunny with paw in pond water, water splashing, moon reflection broken into shimmering fragments, raccoon and red bird getting splashed, funny and cute expressions, night scene, children's picture book, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute white bunny with paw in pond water, water splashing, moon reflection broken into shimmering fragments, raccoon and red bird getting splashed, funny and cute expressions, night scene, children's picture book, vertical portrait composition",
+      "text_en": "Bubu reached in with her little paw to scoop it up — splash! Water sprayed all over everyone's faces! The moon broke into lots of shimmery sparkles, twinkling and glittering. \"Oh no! The moon is broken!\" Bubu cried, almost in tears."
     },
     {
       "text": "NOMI 擦了擦脸上的水，笑着说：“咘咘你抬头看！”咘咘抬起头——月亮好好的挂在天上呢！又大又圆又亮！",
-      "imagePrompt": "Pixar 3D animation style, a cute white bunny looking up amazed at a big beautiful full moon now visible in the night sky, raccoon pointing up smiling, red bird perched on raccoon's head, magical moonlight, children's picture book, wonder and joy, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute white bunny looking up amazed at a big beautiful full moon now visible in the night sky, raccoon pointing up smiling, red bird perched on raccoon's head, magical moonlight, children's picture book, wonder and joy, vertical portrait composition",
+      "text_en": "NOMI wiped the water off her face and smiled. \"Bubu, look up!\" Bubu looked up — and there was the moon, hanging in the sky, big and round and bright!"
     },
     {
       "text": "“水里的是月亮的影子呀！真正的月亮一直都在天上。”NOMI 说。咘咘开心地笑了：“原来月亮一直都在！”",
-      "imagePrompt": "Pixar 3D animation style, three friends together - white bunny, raccoon in blue sweater, and red bird - all smiling happily under beautiful full moon, moonlight bathing them in soft glow, meadow at night, warm and heartfelt, children's picture book, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, three friends together - white bunny, raccoon in blue sweater, and red bird - all smiling happily under beautiful full moon, moonlight bathing them in soft glow, meadow at night, warm and heartfelt, children's picture book, vertical portrait composition",
+      "text_en": "\"The one in the water was just the moon's reflection! The real moon has been up in the sky all along,\" said NOMI. Bubu smiled happily. \"So the moon was here the whole time!\""
     },
     {
       "text": "三个好朋友手拉手走回家。咘咘钻进暖暖的被窝，看着窗外的月亮说：“月亮月亮，晚安！咘咘也要睡觉啦！”然后，咘咘闭上眼睛，做了一个甜甜的梦。晚安！",
-      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny tucked in a cozy bed with soft blankets, looking out window at full moon, sleepy happy expression, warm bedside lamp, stuffed raccoon and bird toys beside the pillow, peaceful dreamy atmosphere, children's picture book, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute white baby bunny tucked in a cozy bed with soft blankets, looking out window at full moon, sleepy happy expression, warm bedside lamp, stuffed raccoon and bird toys beside the pillow, peaceful dreamy atmosphere, children's picture book, vertical portrait composition",
+      "text_en": "The three best friends walked home hand in hand. Bubu snuggled into her warm, cozy bed, looked at the moon outside the window, and said, \"Goodnight, Moon! Bubu is going to sleep now too!\" Then Bubu closed her eyes and had the sweetest dream. Goodnight!"
     },
     {
       "text": "💡 咘咘今天学到了：有时候眼睛看到的不一定是真的哦！水里的月亮是影子，真正的月亮一直在天上。遇到不明白的事情，不要着急，找好朋友一起想办法，答案就会出现！",
-      "imagePrompt": "Pixar 3D animation style, a cute white bunny, raccoon in blue sweater, and red bird sitting together on a hill looking at full moon and its reflection in a pond below, educational and warm scene, soft pastel colors, children's picture book, vertical portrait composition"
+      "imagePrompt": "Pixar 3D animation style, a cute white bunny, raccoon in blue sweater, and red bird sitting together on a hill looking at full moon and its reflection in a pond below, educational and warm scene, soft pastel colors, children's picture book, vertical portrait composition",
+      "text_en": "💡 What Bubu learned today: Sometimes what you see isn't quite real! The moon in the water was just a reflection — the real moon was up in the sky all along. When something puzzles you, don't worry — find your friends and figure it out together!"
     }
-  ]
+  ],
+  "title_en": "Bubu Looks for the Moon"
 }
