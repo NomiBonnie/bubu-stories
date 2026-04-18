@@ -1,5 +1,19 @@
 [
   {
+    "id": "story24",
+    "title": "咘咘去露营",
+    "chapter": 24,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": [
+      "露营",
+      "爱护自然",
+      "只看不摸",
+      "安全意识"
+    ],
+    "title_en": "Bubu Goes Camping"
+  },
+  {
     "id": "story23",
     "title": "咘咘第一次去博物馆",
     "chapter": 23,
