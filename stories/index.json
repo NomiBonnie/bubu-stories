@@ -1,5 +1,19 @@
 [
   {
+    "id": "story25",
+    "title": "咘咘荡秋千",
+    "chapter": 25,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": [
+      "秋千",
+      "面对挫折",
+      "再来一次",
+      "勇气"
+    ],
+    "title_en": "Bubu Rides the Swing"
+  },
+  {
     "id": "story24",
     "title": "咘咘去露营",
     "chapter": 24,
