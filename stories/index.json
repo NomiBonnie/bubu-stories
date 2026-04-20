@@ -1,5 +1,45 @@
 [
   {
+    "id": "story29",
+    "title": "咘咘在床上蹦蹦跳",
+    "chapter": 29,
+    "pages": 10,
+    "cover": "page-01",
+    "tags": [
+      "安全",
+      "床上跳",
+      "抓栏杆",
+      "好习惯"
+    ],
+    "title_en": "Bubu Bounces on the Bed"
+  },
+  {
+    "id": "story28",
+    "title": "咘咘荡秋千不怕摔",
+    "chapter": 28,
+    "pages": 10,
+    "cover": "page-10",
+    "tags": [
+      "勇气",
+      "秋千",
+      "不怕摔"
+    ]
+  },
+  {
+    "id": "story26",
+    "title": "咘咘的小脚踩到了水",
+    "chapter": 26,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": [
+      "踩水",
+      "情绪表达",
+      "告诉爸爸妈妈",
+      "苹果商店"
+    ],
+    "title_en": "Bubu Steps in the Water"
+  },
+  {
     "id": "story25",
     "title": "咘咘荡秋千",
     "chapter": 25,
