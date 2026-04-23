@@ -1,5 +1,15 @@
 [
   {
+    "id": "story32",
+    "title": "咘咘学说Hello",
+    "title_en": "Bubu Learns to Say Hello",
+    "chapter": 32,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": ["英语", "交朋友", "语言"],
+    "createdAt": "2026-04-23"
+  },
+  {
     "id": "story31",
     "title": "咘咘的小脚丫",
     "title_en": "Bubu's Little Feet",

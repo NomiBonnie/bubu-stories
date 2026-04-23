@@ -1,0 +1,78 @@
+{
+  "title": "咘咘学说Hello",
+  "title_en": "Bubu Learns to Say Hello",
+  "pages": [
+    {
+      "text": "《咘咘学说Hello》",
+      "text_en": "Bubu Learns to Say Hello",
+      "image": "images/story32/page-01.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. Book cover design. A sunny spring park with cherry blossom trees and green grass. In the center, a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and a pink bow on her head, standing curiously. Next to her, a raccoon (NOMI) with gray-brown fur, black eye mask markings, ringed tail, big round eyes, wearing a blue-and-white striped sweater. A small bright red-feathered bird (NONO) with orange-yellow beak perched on NOMI's head. Nearby, a red panda (Coco) with reddish-brown fur, round face, big eyes, wearing a yellow scarf, waving and smiling. A colorful speech bubble says 'Hello!' floating in the air. Title text at top: '咘咘学说Hello' in playful colorful letters."
+    },
+    {
+      "text": "春天的公园真美呀!咘咘和NOMI、NONO一起去公园玩。花开了,蝴蝶飞来飞去,阳光暖暖的。",
+      "text_en": "The spring park is so beautiful! Bubu goes to the park with NOMI and NONO. Flowers are blooming, butterflies flutter about, and the sunshine is warm.",
+      "image": "images/story32/page-02.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. A beautiful spring park scene with blooming flowers, butterflies, and warm sunshine. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow on her head, walking happily on a park path. A raccoon (NOMI) with gray-brown fur, black eye mask markings, ringed tail, wearing a blue-and-white striped sweater, walking beside Bubu holding her hand. A small bright red-feathered bird (NONO) with orange-yellow beak flying ahead of them joyfully. Cherry blossoms, green grass, colorful flowers, blue sky."
+    },
+    {
+      "text": "突然,一只红棕色的小熊猫跑过来,对咘咘说了一句:\"Hello!\" 咘咘愣住了--这是什么意思呀?",
+      "text_en": "Suddenly, a reddish-brown red panda runs over and says to Bubu: \"Hello!\" Bubu freezes - what does that mean?",
+      "image": "images/story32/page-03.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. In a sunny spring park. A red panda (Coco) with reddish-brown fur, round face, big sparkling eyes, wearing a yellow scarf, standing in front of Bubu with a friendly wave and big smile. A colorful speech bubble from Coco says 'Hello!' in bold playful letters. Facing Coco, a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, looking confused with a tilted head and question marks floating above her. Green grass, flowers, warm lighting."
+    },
+    {
+      "text": "NOMI 蹲下来,轻轻告诉咘咘:\"Hello 就是'你好'的意思呀!她在跟你打招呼呢。\"",
+      "text_en": "NOMI kneels down and gently tells Bubu: \"Hello means 'ni hao'! She's greeting you.\"",
+      "image": "images/story32/page-04.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. In a spring park. A raccoon (NOMI) with gray-brown fur, black eye mask markings, ringed tail, wearing a blue-and-white striped sweater, kneeling down to Bubu's level, speaking gently with a warm smile, one paw gesturing. A thought bubble shows 'Hello = 你好' in colorful text. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, looking up at NOMI with dawning understanding, eyes brightening. A small bright red-feathered bird (NONO) with orange-yellow beak on NOMI's shoulder."
+    },
+    {
+      "text": "咘咘鼓起勇气,对小熊猫说:\"He...Hello!\" 小熊猫开心地笑了:\"我叫Coco!你呢?\" \"我叫咘咘!\"",
+      "text_en": "Bubu gathers her courage and says to the red panda: \"He...Hello!\" The red panda smiles happily: \"I'm Coco! And you?\" \"I'm Bubu!\"",
+      "image": "images/story32/page-05.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. In a spring park. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, shyly but bravely saying hello, with a speech bubble 'Hello!' in wobbly cute letters. Facing her, a red panda (Coco) with reddish-brown fur, round face, big eyes, wearing a yellow scarf, beaming with joy, clapping her paws. Both characters reaching out to each other in a friendly gesture. Warm sunlight, flowers, green grass, happy atmosphere."
+    },
+    {
+      "text": "Coco送给咘咘一朵漂亮的小花。NOMI 悄悄提醒:\"收到礼物可以说 Thank you 哦,就是'谢谢'的意思。\"",
+      "text_en": "Coco gives Bubu a pretty little flower. NOMI whispers: \"When you receive a gift, you can say 'Thank you' - it means 'xie xie'.\"",
+      "image": "images/story32/page-06.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. In a spring park. A red panda (Coco) with reddish-brown fur, round face, big eyes, wearing a yellow scarf, handing a beautiful small daisy flower to Bubu with a sweet smile. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, receiving the flower with both paws, looking delighted. Behind Bubu, a raccoon (NOMI) with gray-brown fur, black eye mask, wearing a blue-and-white striped sweater, leaning in and whispering. A small thought bubble shows 'Thank you = 谢谢'."
+    },
+    {
+      "text": "咘咘接过小花,大声说:\"Thank you!\" Coco高兴地拍手:\"你说得真棒!\"",
+      "text_en": "Bubu takes the flower and says loudly: \"Thank you!\" Coco claps happily: \"You said it so well!\"",
+      "image": "images/story32/page-07.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. In a spring park. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, holding a small daisy flower proudly, mouth open saying the words with confidence. A big colorful speech bubble says 'Thank you!' in bright cheerful letters. A red panda (Coco) with reddish-brown fur, round face, big eyes, wearing a yellow scarf, clapping her paws with delight. Sparkles and small stars around them to show the happy moment. Warm park background."
+    },
+    {
+      "text": "玩了好一会儿,Tina妈妈来接咘咘了。咘咘跑过去抱住妈妈,NOMI说:\"抱妈妈的时候可以说 I love you,就是'我爱你'哦。\"",
+      "text_en": "After playing for a while, Tina Mama comes to pick up Bubu. Bubu runs over and hugs Mama. NOMI says: \"When hugging Mama, you can say 'I love you' - it means 'wo ai ni'.\"",
+      "image": "images/story32/page-08.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. In a spring park. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, running with open arms toward her mother. A cow (Tina Mama) with black-and-white patches, gentle elegant appearance, wearing a spring knit cardigan and floral skirt, kneeling down with open arms to receive Bubu's hug, warm loving smile. A raccoon (NOMI) with gray-brown fur, black eye mask, wearing a blue-and-white striped sweater, standing nearby with a gentle smile. A thought bubble near NOMI shows 'I love you = 我爱你' in soft pink letters."
+    },
+    {
+      "text": "咘咘紧紧抱着妈妈,甜甜地说:\"I love you, 妈妈!\" 妈妈感动地亲了亲咘咘的额头:\"I love you too, 宝贝!\"",
+      "text_en": "Bubu hugs Mama tightly and says sweetly: \"I love you, Mama!\" Mama kisses Bubu's forehead, touched: \"I love you too, baby!\"",
+      "image": "images/story32/page-09.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. Heartwarming close-up scene. A cow (Tina Mama) with black-and-white patches, gentle elegant appearance, wearing a spring knit cardigan, holding a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow. Mama kissing Bubu's forehead lovingly. Bubu's eyes closed with a happy smile. Pink heart shapes floating around them. A speech bubble from Bubu says 'I love you!' in pink letters, and a speech bubble from Mama says 'I love you too!' Warm golden light, soft bokeh background of the park."
+    },
+    {
+      "text": "要回家了,咘咘跑回去对Coco挥挥手。NOMI 教她最后一个词:\"Goodbye 就是'再见'哦!\"",
+      "text_en": "Time to go home. Bubu runs back to wave at Coco. NOMI teaches her the last word: \"Goodbye means 'zai jian'!\"",
+      "image": "images/story32/page-10.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. A spring park at golden hour with warm sunset light. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, waving her paw with a big smile. A speech bubble says 'Goodbye!' in colorful letters. Facing her, a red panda (Coco) with reddish-brown fur, round face, big eyes, wearing a yellow scarf, waving back with a happy but slightly sad smile. A raccoon (NOMI) with gray-brown fur, black eye mask, wearing a blue-and-white striped sweater, standing behind Bubu. A small bright red-feathered bird (NONO) with orange-yellow beak flying between them."
+    },
+    {
+      "text": "回家的路上,咘咘一边走一边念:\"Hello, Thank you, I love you, Goodbye!\" NONO在头顶飞来飞去,跟着一起念!",
+      "text_en": "On the way home, Bubu walks along reciting: \"Hello, Thank you, I love you, Goodbye!\" NONO flies around above her head, repeating along!",
+      "image": "images/story32/page-11.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. A warm spring evening street scene with golden sunset light. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, walking happily with a skip in her step, mouth open reciting words. Four colorful word bubbles floating around her in a arc: 'Hello!' in blue, 'Thank you!' in green, 'I love you!' in pink, 'Goodbye!' in orange. A small bright red-feathered bird (NONO) with orange-yellow beak flying excitedly above her. A raccoon (NOMI) with gray-brown fur, black eye mask, wearing a blue-and-white striped sweater, walking behind smiling proudly. A cow (Tina Mama) with black-and-white patches walking alongside."
+    },
+    {
+      "text": "咘咘发现,会说两种语言好厉害!可以跟更多的朋友说话,交到更多的好朋友。明天去公园,还要教Coco说「你好」呢!",
+      "text_en": "Bubu discovers that speaking two languages is amazing! She can talk to more friends and make even more new ones. Tomorrow at the park, she'll teach Coco to say 'ni hao'!",
+      "image": "images/story32/page-12.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. A dreamy, happy ending illustration. A pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a light pink spring dress and pink bow, standing in the center of a magical spring park with a big bright smile, arms spread wide. Around her in a circle, friendly animal friends of different species waving and smiling. A red panda (Coco) with reddish-brown fur, wearing a yellow scarf, standing closest. A raccoon (NOMI) with gray-brown fur, black eye mask, wearing a blue-and-white striped sweater. A small bright red-feathered bird (NONO) with red feathers and orange-yellow beak on Bubu's head. Floating colorful bilingual word pairs: 'Hello 你好', 'Thank you 谢谢', 'I love you 我爱你', 'Goodbye 再见'. Rainbow, sparkles, flowers, butterflies. Warm golden light."
+    }
+  ]
+}
