@@ -1,5 +1,29 @@
 [
   {
+    "id": "story31",
+    "title": "咘咘的小脚丫",
+    "title_en": "Bubu's Little Feet",
+    "chapter": 31,
+    "pages": 12,
+    "cover": "page-01",
+    "tags": ["习惯", "穿鞋", "成长"],
+    "createdAt": "2026-04-23"
+  },
+  {
+    "id": "story30",
+    "title": "咘咘追萤火虫",
+    "title_en": "Bubu Chases Fireflies",
+    "chapter": 30,
+    "pages": 14,
+    "cover": "page-01",
+    "tags": [
+      "自然",
+      "耐心",
+      "欣赏"
+    ],
+    "createdAt": "2026-04-23"
+  },
+  {
     "id": "story29",
     "title": "咘咘等水水姐姐来玩",
     "chapter": 29,
