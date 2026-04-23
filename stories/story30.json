@@ -3,11 +3,7 @@
   "title": "咘咘追萤火虫",
   "title_en": "Bubu Chases Fireflies",
   "chapter": 30,
-  "pages": 14,
-  "cover": "page-01",
-  "tags": ["自然", "耐心", "欣赏"],
-  "createdAt": "2026-04-23",
-  "content": [
+  "pages": [
     {
       "text": "咘咘追萤火虫",
       "text_en": "Bubu Chases Fireflies",
@@ -92,5 +88,12 @@
       "image": "images/story30/page-14.jpg",
       "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition. DREAM SEQUENCE: A snow-white rabbit girl (Bubu, pure white fur, big round brown eyes, pink inner ears, light pink summer dress, pink bow on ear) floating and flying through a fantastical starry night garden, with tiny translucent golden wings like a firefly on her back, her belly glowing warm yellow-green. She spreads her arms wide with pure joy. Below her, the Suzhou garden is a magical landscape of glowing flowers, luminous paths, and fireflies everywhere. Dreamy, ethereal quality with soft-focus edges and sparkles. A crescent moon smiles in the sky. The most magical, dreamlike ending scene."
     }
-  ]
+  ],
+  "cover": "page-01",
+  "tags": [
+    "自然",
+    "耐心",
+    "欣赏"
+  ],
+  "createdAt": "2026-04-23"
 }
