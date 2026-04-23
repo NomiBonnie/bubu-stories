@@ -385,5 +385,19 @@
       "不怕困难"
     ],
     "title_en": "Bubu Looks for the Moon"
+  },
+  {
+    "id": "story30",
+    "title": "咘咘追萤火虫",
+    "title_en": "Bubu Chases Fireflies",
+    "chapter": 30,
+    "pages": 14,
+    "cover": "page-01",
+    "tags": [
+      "自然",
+      "耐心",
+      "欣赏"
+    ],
+    "createdAt": "2026-04-23"
   }
 ]
