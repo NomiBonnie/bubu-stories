@@ -1,47 +1,73 @@
 {
   "title": "咘咘坐飞机",
   "title_en": "Bubu's Plane Adventure",
-  "cover": "page-07",
+  "cover": "page-01",
   "pages": [
     {
+      "text": "咘咘坐飞机",
+      "text_en": "Bubu's Plane Adventure",
+      "image": "images/story8/page-01.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Book cover scene. A bright sunny airport exterior with a large airplane in the background. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions standing excitedly with a small backpack, looking up at the airplane with wonder. a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression standing beside her holding her hand lovingly. A clear blue sky with fluffy clouds. The top third of the image has a clear open sky area suitable for title text overlay. Warm, adventurous, exciting mood."
+    },
+    {
       "text": "今天是一个特别的日子！爸爸在苏州工作，咘咘要和妈妈一起坐飞机，从深圳飞到苏州去看爸爸啦！",
-      "text_en": "Today was a special day! Daddy was working in Suzhou, and Bubu was going to fly with Mommy from Shenzhen to Suzhou to see him!"
+      "text_en": "Today was a special day! Daddy was working in Suzhou, and Bubu was going to fly with Mommy from Shenzhen to Suzhou to see him!",
+      "image": "images/story8/page-02.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). A cozy home interior in the morning. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions jumping with excitement, wearing a small backpack. a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression smiling beside her, holding suitcases. Through the window, a bright sunny day. Warm morning light."
     },
     {
       "text": "到了机场，咘咘看到好多好多人，还有长长的队伍。她紧紧拉着妈妈的手，眼睛瞪得圆圆的。\"哇，机场好大呀！\"",
-      "text_en": "At the airport, Bubu saw so many people and long lines. She held onto Mommy’s hand tightly, her eyes wide open. \"Wow, the airport is so big!\""
+      "text_en": "At the airport, Bubu saw so many people and long lines. She held onto Mommy’s hand tightly, her eyes wide open. \"Wow, the airport is so big!\"",
+      "image": "images/story8/page-03.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). A huge bustling airport terminal with high ceilings and many animal passengers. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions holding tightly onto a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression's hand, eyes wide with wonder, looking around at the enormous space. Long queues, departure boards, bright lights."
     },
     {
       "text": "妈妈把登机牌递给咘咘，说：\"这是你的小票票哦，拿好它我们就可以上飞机啦！\"咘咘把登机牌抱在怀里，觉得自己像个大人。",
-      "text_en": "Mommy handed Bubu the boarding pass and said: \"This is your little ticket. Hold onto it, and we can get on the plane!\" Bubu hugged the ticket tightly, feeling very grown-up."
+      "text_en": "Mommy handed Bubu the boarding pass and said: \"This is your little ticket. Hold onto it, and we can get on the plane!\" Bubu hugged the ticket tightly, feeling very grown-up.",
+      "image": "images/story8/page-04.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Close-up scene. a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression handing a boarding pass to a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions. Bubu hugging the boarding pass to her chest proudly, looking very grown-up. Airport check-in counter in the background."
     },
     {
       "text": "飞机好大好大！咘咘走进机舱，摸摸软软的座椅，看看圆圆的小窗户。\"妈妈，飞机真的会飞到天上吗？\"",
-      "text_en": "The plane was so big! Bubu walked into the cabin, touched the soft seats, and looked at the round little windows. \"Mommy, will the plane really fly in the sky?\""
+      "text_en": "The plane was so big! Bubu walked into the cabin, touched the soft seats, and looked at the round little windows. \"Mommy, will the plane really fly in the sky?\"",
+      "image": "images/story8/page-05.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Inside a large airplane cabin. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions touching the soft airplane seat curiously, looking at the round airplane window with wonder. a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression sitting in the next seat smiling. Warm cabin lighting, rows of seats."
     },
     {
       "text": "飞机开始跑啦！轰隆隆——越跑越快，咘咘抓紧了妈妈的手。突然，飞机飞起来了！咘咘的肚子痒痒的，她咯咯笑了。",
-      "text_en": "The plane started moving! Rumble rumble—it went faster and faster. Bubu held Mommy’s hand tightly. Suddenly, the plane lifted off! Bubu’s tummy felt ticklish, and she giggled."
+      "text_en": "The plane started moving! Rumble rumble—it went faster and faster. Bubu held Mommy’s hand tightly. Suddenly, the plane lifted off! Bubu’s tummy felt ticklish, and she giggled.",
+      "image": "images/story8/page-06.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Dramatic scene inside airplane. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions gripping a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression's hand tightly as the plane takes off, her tummy feeling ticklish, giggling with a mix of excitement and nervousness. Motion blur outside the window showing acceleration. Dynamic angle."
     },
     {
       "text": "咘咘趴在窗户上往外看。房子变得像积木一样小，河流像一条亮亮的丝带。\"妈妈你看！云朵就在旁边！好像棉花糖！\"",
-      "text_en": "Bubu leaned on the window to look outside. Houses looked like little building blocks, and the river like a shiny ribbon. \"Mommy, look! The clouds are so close! They look like cotton candy!\""
+      "text_en": "Bubu leaned on the window to look outside. Houses looked like little building blocks, and the river like a shiny ribbon. \"Mommy, look! The clouds are so close! They look like cotton candy!\"",
+      "image": "images/story8/page-07.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions pressing her face against the airplane window, looking down at tiny houses like building blocks and a river like a shiny ribbon far below. Fluffy white clouds right beside the window. a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression leaning over to look too. Magical aerial view, golden sunlight through clouds."
     },
     {
       "text": "空姐阿姨给咘咘送来一杯果汁和一包小饼干。咘咘说：\"谢谢阿姨！\"空姐阿姨笑着摸摸她的头：\"小兔子真有礼貌！\"",
-      "text_en": "The flight attendant brought Bubu a cup of juice and a bag of cookies. Bubu said: \"Thank you!\" The flight attendant smiled and patted her head: \"What a polite little bunny!\""
+      "text_en": "The flight attendant brought Bubu a cup of juice and a bag of cookies. Bubu said: \"Thank you!\" The flight attendant smiled and patted her head: \"What a polite little bunny!\"",
+      "image": "images/story8/page-08.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Inside the airplane. A kind deer flight attendant in uniform bringing a tray with juice and cookies to a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions. Bubu saying thank you politely with a happy smile. a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression sitting beside her looking proud. Warm cabin lighting."
     },
     {
       "text": "飞机降落啦！轱辘轱辘——稳稳地停下来。咘咘拍着小手说：\"我坐飞机啦！我好勇敢！\"",
-      "text_en": "The plane landed! Rumble rumble—it stopped smoothly. Bubu clapped her little hands and said: \"I rode a plane! I’m so brave!\""
+      "text_en": "The plane landed! Rumble rumble—it stopped smoothly. Bubu clapped her little hands and said: \"I rode a plane! I’m so brave!\"",
+      "image": "images/story8/page-09.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). The airplane landing scene. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions clapping her little hands with joy, looking out the window at the runway. Expression of triumph and pride. \"I did it!\" energy. a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression smiling proudly beside her."
     },
     {
       "text": "走出机场，爸爸已经在出口等着她们啦！咘咘飞扑过去：\"爸爸！爸爸！我坐飞机来找你啦！\"爸爸一把抱起咘咘，亲了亲她的额头。",
-      "text_en": "Out of the airport, Daddy was already waiting at the exit! Bubu ran to him: \"Daddy! Daddy! I flew on a plane to find you!\" Daddy picked her up and kissed her forehead."
+      "text_en": "Out of the airport, Daddy was already waiting at the exit! Bubu ran to him: \"Daddy! Daddy! I flew on a plane to find you!\" Daddy picked her up and kissed her forehead.",
+      "image": "images/story8/page-10.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Emotional reunion scene outside airport exit. a golden retriever dad (Sam) with golden fur, large and warm build, wearing casual stylish clothes (dark fitted jacket), gentle loving smile with open arms as a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions runs and leaps toward him. Dad catching and hugging Bubu, kissing her forehead. a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression walking behind with luggage, smiling warmly. Sunset golden light, airport exit in background. Heartwarming family moment."
     },
     {
       "text": "💡 咘咘今天学到了：和妈妈一起去新的城市看爸爸，虽然有点紧张，但新地方有好多好玩的，还能交到新朋友。一家人在一起，哪里都是家。",
-      "text_en": "💡 Bubu learned today: Traveling to a new city with Mommy to see Daddy can be a little nerve-wracking, but there’s so much fun waiting and even new friends to meet. As long as family is together, anywhere feels like home."
+      "text_en": "💡 Bubu learned today: Traveling to a new city with Mommy to see Daddy can be a little nerve-wracking, but there’s so much fun waiting and even new friends to meet. As long as family is together, anywhere feels like home.",
+      "image": "images/story8/page-11.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Cozy nighttime scene. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions in bed in pajamas, looking out the window at a starry sky with an airplane silhouette. A toy airplane on her nightstand. Dreamy, peaceful atmosphere. Moonlight and warm bedside lamp glow. a golden retriever dad (Sam) with golden fur, large and warm build, wearing casual stylish clothes (dark fitted jacket), gentle loving smile and a black-and-white cow mom (Tina) with classic cow markings, medium-large build, elegant and gentle, wearing fashionable outfit (knit top and skirt), patient warm expression tucking her in together."
     }
   ]
 }

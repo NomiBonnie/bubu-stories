@@ -1,71 +1,109 @@
 {
   "title": "猪猪不怕打针",
-  "title_en": "Zhuzhu is Brave for the Doctor",
-  "cover": "page-05",
+  "title_en": "Zhuzhu Is Not Afraid of Shots",
+  "cover": "page-01",
   "pages": [
     {
+      "text": "猪猪不怕打针",
+      "text_en": "Zhuzhu Is Not Afraid of Shots",
+      "image": "images/story7/page-01.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Book cover scene. A bright, cheerful hospital entrance decorated with colorful lanterns on a big tree. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions and a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu standing together holding hands bravely. a tall giraffe doctor (Dr. Giraffe) with standard giraffe spots, wearing a white doctor coat and stethoscope, warm professional expression, bending down to talk to small children visible in the doorway waving. Bright sunshine, flowers around the entrance. The top third has clear sky area for title text overlay. Encouraging, warm, brave mood."
+    },
+    {
       "text": "咘咘有一个好朋友，是一只白白胖胖的小绵羊，名字叫猪猪。猪猪的毛软软的，像一朵云。",
-      "text_en": "Bubu had a good friend, a fluffy, chubby little lamb named Zhuzhu. Zhuzhu’s wool was soft, just like a cloud."
+      "text_en": "Bubu had a good friend, a fluffy, chubby little lamb named Zhuzhu. Zhuzhu’s wool was soft, just like a cloud.",
+      "image": "images/story7/page-02.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). A meadow scene. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions playing with a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu. Zhuzhu has soft cloud-like curly wool. They're laughing together on green grass with flowers. Warm sunny day."
     },
     {
       "text": "今天猪猪有点不舒服，鼻子红红的，还打了好几个喷嚏。羊妈妈摸摸猪猪的额头说：\"猪猪，我们去医院看看好不好？\"",
-      "text_en": "Today, Zhuzhu wasn’t feeling well. His nose was red, and he sneezed several times. Mama Sheep touched his forehead and said, \"Zhuzhu, how about we go visit the doctor?\""
+      "text_en": "Today, Zhuzhu wasn’t feeling well. His nose was red, and he sneezed several times. Mama Sheep touched his forehead and said, \"Zhuzhu, how about we go visit the doctor?\"",
+      "image": "images/story7/page-03.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu looking unwell, red nose, sneezing. A sheep mother (white wool, gentle) feeling Zhuzhu's forehead with concern. Cozy home interior. Soft warm lighting."
     },
     {
       "text": "猪猪有点害怕，缩在妈妈后面。\"医院……会不会很可怕呀？\"",
-      "text_en": "Zhuzhu felt scared and hid behind his mama. \"The doctor...will it be scary?\""
+      "text_en": "Zhuzhu felt scared and hid behind his mama. \"The doctor...will it be scary?\"",
+      "image": "images/story7/page-04.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu hiding behind his sheep mother, looking scared and worried. A thought bubble showing a scary hospital (from his imagination). Nervous expression."
     },
     {
       "text": "咘咘拉着猪猪的手说：\"猪猪不怕！我陪你一起去！\"",
-      "text_en": "Bubu held Zhuzhu’s hand and said, \"Zhuzhu, don’t be scared! I’ll go with you!\""
+      "text_en": "Bubu held Zhuzhu’s hand and said, \"Zhuzhu, don’t be scared! I’ll go with you!\"",
+      "image": "images/story7/page-05.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions holding a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu's hand firmly, looking determined and encouraging. \"Don't be scared, I'll go with you!\" expression. Bright outdoor setting, path ahead."
     },
     {
       "text": "医院到了！门口有一棵大树，树上挂着彩色的小灯笼。医院一点都不黑，到处都是亮亮的、暖暖的。",
-      "text_en": "They arrived at the hospital! At the entrance, there was a big tree decorated with colorful lanterns. The hospital wasn’t dark at all—it was bright and warm everywhere."
+      "text_en": "They arrived at the hospital! At the entrance, there was a big tree decorated with colorful lanterns. The hospital wasn’t dark at all—it was bright and warm everywhere.",
+      "image": "images/story7/page-06.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). A bright, warm, friendly animal hospital exterior. A big tree with colorful lanterns at the entrance. Everything is bright and welcoming, not scary at all. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions and a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu arriving, looking around. Sunshine, flowers."
     },
     {
       "text": "长颈鹿医生笑眯眯地走过来，她穿着白白的大褂，脖子上挂着一个听诊器。\"你好呀小猪猪，让我听听你的肚子好不好？\"",
-      "text_en": "Dr. Giraffe came over with a big smile. She was wearing a white coat and had a stethoscope around her neck. \"Hello, little Zhuzhu. Let me check your tummy, okay?\""
+      "text_en": "Dr. Giraffe came over with a big smile. She was wearing a white coat and had a stethoscope around her neck. \"Hello, little Zhuzhu. Let me check your tummy, okay?\"",
+      "image": "images/story7/page-07.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Inside the hospital. a tall giraffe doctor (Dr. Giraffe) with standard giraffe spots, wearing a white doctor coat and stethoscope, warm professional expression, bending down to talk to small children bending down with a warm smile, holding a stethoscope. a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu looking up at the tall gentle giraffe doctor. Bright clean hospital interior with cheerful decorations."
     },
     {
       "text": "听诊器凉凉的，猪猪缩了一下。长颈鹿医生说：\"没事的，就像小蝴蝶停在你身上一样轻轻的。\"猪猪安心了。",
-      "text_en": "The stethoscope felt cold, and Zhuzhu pulled back a little. Dr. Giraffe said: \"Don’t worry, it’s just like a butterfly gently landing on you.\" Zhuzhu felt better."
+      "text_en": "The stethoscope felt cold, and Zhuzhu pulled back a little. Dr. Giraffe said: \"Don’t worry, it’s just like a butterfly gently landing on you.\" Zhuzhu felt better.",
+      "image": "images/story7/page-08.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Close-up. a tall giraffe doctor (Dr. Giraffe) with standard giraffe spots, wearing a white doctor coat and stethoscope, warm professional expression, bending down to talk to small children placing a stethoscope on a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu's tummy. Zhuzhu flinching slightly at the cool touch but relaxing. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions watching nearby encouragingly. Warm medical room."
     },
     {
       "text": "长颈鹿医生说：\"猪猪感冒了，需要打一针，这样才能快快好起来哦。\"",
-      "text_en": "Dr. Giraffe said: \"Zhuzhu has a little cold and needs a shot to get better quickly.\""
+      "text_en": "Dr. Giraffe said: \"Zhuzhu has a little cold and needs a shot to get better quickly.\"",
+      "image": "images/story7/page-09.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a tall giraffe doctor (Dr. Giraffe) with standard giraffe spots, wearing a white doctor coat and stethoscope, warm professional expression, bending down to talk to small children explaining kindly that Zhuzhu needs a shot. Zhuzhu looking worried. Doctor holding up a tiny syringe showing it's small. Gentle, reassuring atmosphere."
     },
     {
       "text": "猪猪的眼睛红了。他小声问：\"打针……很疼吗？\"",
-      "text_en": "Zhuzhu’s eyes turned red. He asked softly: \"Is the shot...very painful?\""
+      "text_en": "Zhuzhu’s eyes turned red. He asked softly: \"Is the shot...very painful?\"",
+      "image": "images/story7/page-10.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Close-up of a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu with teary red eyes, looking scared. Small voice asking \"will it hurt?\" Emotional, sympathetic scene. Soft lighting."
     },
     {
       "text": "咘咘握紧猪猪的手，说：\"猪猪你看着我！我们一起数1、2、3，数完就好了！\"",
-      "text_en": "Bubu held Zhuzhu’s hand tightly and said, \"Zhuzhu, look at me! Let’s count together, 1, 2, 3, and it’ll be over!\""
+      "text_en": "Bubu held Zhuzhu’s hand tightly and said, \"Zhuzhu, look at me! Let’s count together, 1, 2, 3, and it’ll be over!\"",
+      "image": "images/story7/page-11.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions gripping a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu's hand tightly, looking into his eyes with a brave encouraging smile. \"Look at me! Let's count 1, 2, 3 together!\" Friendship and courage. Warm lighting."
     },
     {
       "text": "小兔子护士轻轻地在猪猪手臂上擦了一下，凉凉的。然后——\"1、2、3！\"咘咘和猪猪一起大声数。针扎了一下，就像被小蚂蚁咬了一口。",
-      "text_en": "Nurse Bunny gently wiped Zhuzhu’s arm—it felt cold. Then—\"1, 2, 3!\" Bubu and Zhuzhu counted loudly together. The needle prickled only slightly, like a tiny ant bite."
+      "text_en": "Nurse Bunny gently wiped Zhuzhu’s arm—it felt cold. Then—\"1, 2, 3!\" Bubu and Zhuzhu counted loudly together. The needle prickled only slightly, like a tiny ant bite.",
+      "image": "images/story7/page-12.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). The shot moment. A rabbit nurse gently wiping Zhuzhu's arm. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions and a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu counting together \"1, 2, 3!\" with determined expressions. Quick moment, not scary. Bright hospital room."
     },
     {
       "text": "\"好啦！打完啦！\"小兔子护士给猪猪的手臂贴了一个星星创可贴。猪猪低头一看——哇，好漂亮的星星！",
-      "text_en": "\"All done!\" Nurse Bunny placed a star-shaped bandage on Zhuzhu’s arm. Zhuzhu looked down—wow, what a pretty star!"
+      "text_en": "\"All done!\" Nurse Bunny placed a star-shaped bandage on Zhuzhu’s arm. Zhuzhu looked down—wow, what a pretty star!",
+      "image": "images/story7/page-13.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu looking at a star-shaped bandaid on his arm with wonder and delight. The rabbit nurse smiling. It's already done! Relief and happiness. Sparkle effect around the star bandaid."
     },
     {
       "text": "猪猪开心地笑了：\"原来打针一点都不可怕呀！\"他把手臂举起来给咘咘看星星贴纸。",
-      "text_en": "Zhuzhu smiled happily: \"The shot wasn’t scary at all!\" He raised his arm to show Bubu the star sticker."
+      "text_en": "Zhuzhu smiled happily: \"The shot wasn’t scary at all!\" He raised his arm to show Bubu the star sticker.",
+      "image": "images/story7/page-14.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu laughing happily, proudly showing his star bandaid arm to a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions. \"It wasn't scary at all!\" Both smiling brightly. Cheerful hospital corridor."
     },
     {
       "text": "长颈鹿医生摸摸猪猪的头：\"猪猪真勇敢！医院里的叔叔阿姨都是帮助小朋友的，不用害怕哦。\"",
-      "text_en": "Dr. Giraffe patted Zhuzhu’s head: \"Zhuzhu, you’re so brave! The doctors and nurses are all here to help little ones like you. You don’t need to be afraid.\""
+      "text_en": "Dr. Giraffe patted Zhuzhu’s head: \"Zhuzhu, you’re so brave! The doctors and nurses are all here to help little ones like you. You don’t need to be afraid.\"",
+      "image": "images/story7/page-15.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). a tall giraffe doctor (Dr. Giraffe) with standard giraffe spots, wearing a white doctor coat and stethoscope, warm professional expression, bending down to talk to small children patting a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu's head gently. \"You were so brave!\" Zhuzhu beaming with pride. a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions clapping. Warm, proud moment."
     },
     {
       "text": "回家的路上，猪猪蹦蹦跳跳的。他跟咘咘说：\"下次你去医院，我也陪你！我们是勇敢小队！\"",
-      "text_en": "On the way home, Zhuzhu hopped happily. He said to Bubu: \"Next time you need to go to the doctor, I’ll go with you! We’re the Brave Team!\""
+      "text_en": "On the way home, Zhuzhu hopped happily. He said to Bubu: \"Next time you need to go to the doctor, I’ll go with you! We’re the Brave Team!\"",
+      "image": "images/story7/page-16.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Walking home scene. a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu bouncing happily alongside a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions. \"Next time I'll go with you too! We're the brave team!\" Sunset path, golden light, happy mood. Trees and flowers along the road."
     },
     {
       "text": "💡 猪猪今天学到了：医院不可怕，医生和护士都是帮助我们的好朋友。打针就像被小蚂蚁咬一下，数到3就好了！勇敢的小朋友最棒！",
-      "text_en": "💡 Zhuzhu learned today: The doctor isn’t scary; doctors and nurses are our friendly helpers. A shot feels just like a tiny ant bite and is over after counting to 3! Brave kids are the best!"
+      "text_en": "💡 Zhuzhu learned today: The doctor isn’t scary; doctors and nurses are our friendly helpers. A shot feels just like a tiny ant bite and is over after counting to 3! Brave kids are the best!",
+      "image": "images/story7/page-17.jpg",
+      "imagePrompt": "Pixar 3D animation style, warm soft lighting, children's picture book illustration, vertical portrait composition (9:16 aspect ratio). Dreamy lesson scene. a white sheep (Zhuzhu, NOT a pig despite the name) with cloud-like curly white wool, light blue vest, brown little hooves, pink nose, about the same size as Bubu and a pure snow-white rabbit toddler (Bubu) with long ears (pink inside), big round brown eyes, small pink nose, wearing a pink dress and a small pink bow on her head, round chubby toddler proportions in a warm glow, showing their star bandaids like medals. A friendly hospital in the background with a rainbow. \"Being brave is the best!\" message. Warm, uplifting, storybook ending."
     }
   ]
 }
