@@ -1,10 +1,12 @@
+// Build timestamp: 2026-04-24 23:53
 import { useState, useRef, useCallback, useEffect } from 'react'
 import './StoryReader.css'
 
 const BASE = import.meta.env.BASE_URL
 
 function imgUrl(id, pageNum) {
-  return `${BASE}images/${id}/page-${String(pageNum).padStart(2, '0')}.jpg?v=20260424`
+  const buildTime = '20260424-2353'; // Force bundle rehash
+  return `${BASE}images/${id}/page-${String(pageNum).padStart(2, '0')}.jpg?v=${buildTime}`
 }
 
 export default function StoryReader({ story, storyId, onBack, lang, toggleLang }) {

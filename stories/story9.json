@@ -1,67 +1,88 @@
 {
   "title": "咘咘早点睡",
   "title_en": "Bubu Goes to Bed Early",
-  "cover": "page-07",
+  "cover": "page-01",
   "pages": [
     {
+      "text": "咘咘早点睡",
+      "text_en": "Bubu Goes to Bed Early",
+      "image": "images/story9/page-01.jpg"
+    },
+    {
       "text": "天黑了，月亮爬上了树梢。森林里的小动物们都开始打哈欠了。",
-      "text_en": "The skies turned dark, and the moon climbed above the trees. All the little animals in the forest began yawning."
+      "text_en": "The skies turned dark, and the moon climbed above the trees. All the little animals in the forest began yawning.",
+      "image": "images/story9/page-02.jpg"
     },
     {
       "text": "豆豆第一个回家了。\"我好困呀，明天见！\"小刺猬揉着眼睛，慢慢走进了自己的小洞。",
-      "text_en": "Doudou was the first to go home. \"I’m so sleepy. See you tomorrow!\" The little hedgehog rubbed his eyes and slowly walked into his hole."
+      "text_en": "Doudou was the first to go home. \"I’m so sleepy. See you tomorrow!\" The little hedgehog rubbed his eyes and slowly walked into his hole.",
+      "image": "images/story9/page-03.jpg"
     },
     {
       "text": "慢慢也回家了。小乌龟把头缩进壳里，轻轻说了一句：\"晚安。\"就不动了。",
-      "text_en": "Manman the turtle went home too. She pulled her head into her shell, softly saying: \"Goodnight,\" then stayed still."
+      "text_en": "Manman the turtle went home too. She pulled her head into her shell, softly saying: \"Goodnight,\" then stayed still.",
+      "image": "images/story9/page-04.jpg"
     },
     {
       "text": "NONO 飞回了自己的小窝。小红鸟把翅膀盖在脸上，像盖了一条红被子。",
-      "text_en": "NONO flew back to his nest. The little red bird covered his face with his wings, like tucking himself under a red blanket."
+      "text_en": "NONO flew back to his nest. The little red bird covered his face with his wings, like tucking himself under a red blanket.",
+      "image": "images/story9/page-05.jpg"
     },
     {
       "text": "NOMI 也打了一个大大的哈欠。\"咘咘，我要去睡觉啦，你也要早点睡哦。\"小浣熊抱了抱咘咘，转身回家了。",
-      "text_en": "NOMI let out a big yawn. \"Bubu, I’m going to bed now. You should sleep early too.\" The little raccoon hugged Bubu and went home."
+      "text_en": "NOMI let out a big yawn. \"Bubu, I’m going to bed now. You should sleep early too.\" The little raccoon hugged Bubu and went home.",
+      "image": "images/story9/page-06.jpg"
     },
     {
       "text": "森林安静下来了。只有咘咘还在外面玩。\"我还不想睡嘛！\"咘咘跺了跺脚。",
-      "text_en": "The forest grew quiet. Only Bubu was still outside playing. \"I don’t want to sleep yet!\" Bubu stomped her foot."
+      "text_en": "The forest grew quiet. Only Bubu was still outside playing. \"I don’t want to sleep yet!\" Bubu stomped her foot.",
+      "image": "images/story9/page-07.jpg"
     },
     {
       "text": "Tina 妈妈走过来，牵起咘咘的手：\"宝贝，已经十点了。小朋友们都睡了，咘咘也该回家了。\"",
-      "text_en": "Mommy Tina walked over and held Bubu’s hand. \"Sweetie, it’s already 10 o’clock. All the little ones are asleep; it’s time for you to go home too.\""
+      "text_en": "Mommy Tina walked over and held Bubu’s hand. \"Sweetie, it’s already 10 o’clock. All the little ones are asleep; it’s time for you to go home too.\"",
+      "image": "images/story9/page-08.jpg"
     },
     {
       "text": "回到家，Sam 爸爸已经放好了洗澡水。\"咘咘，先洗澡澡吧！\"浴缸里冒着暖暖的泡泡。",
-      "text_en": "At home, Daddy Sam had already filled the tub with warm, bubbly water. \"Bubu, time for a bath!\""
+      "text_en": "At home, Daddy Sam had already filled the tub with warm, bubbly water. \"Bubu, time for a bath!\"",
+      "image": "images/story9/page-09.jpg"
     },
     {
       "text": "洗完澡，Tina 妈妈拿来了牙刷：\"咘咘，该刷牙了。上面刷刷，下面刷刷，里面也要刷到哦。\"",
-      "text_en": "After the bath, Mommy Tina brought Bubu a toothbrush. \"Bubu, time to brush your teeth. Brush the top, the bottom, and don’t forget the insides.\""
+      "text_en": "After the bath, Mommy Tina brought Bubu a toothbrush. \"Bubu, time to brush your teeth. Brush the top, the bottom, and don’t forget the insides.\"",
+      "image": "images/story9/page-10.jpg"
     },
     {
       "text": "咘咘张大嘴巴，认真地刷。\"啊——\"上面刷刷，下面刷刷。泡沫像白胡子一样挂在嘴边，咘咘对着镜子笑了。",
-      "text_en": "Bubu opened her mouth wide and brushed carefully. \"Ah—\" she brushed the top and the bottom. The foam made her look like she had a white beard, and Bubu laughed at her reflection in the mirror."
+      "text_en": "Bubu opened her mouth wide and brushed carefully. \"Ah—\" she brushed the top and the bottom. The foam made her look like she had a white beard, and Bubu laughed at her reflection in the mirror.",
+      "image": "images/story9/page-11.jpg"
     },
     {
       "text": "Sam 爸爸帮咘咘换上了软软的睡衣。粉色的，上面有小星星。\"好舒服呀！\"咘咘转了一个圈。",
-      "text_en": "Daddy Sam helped Bubu change into soft pajamas. They were pink with little stars. \"So comfy!\" Bubu twirled around."
+      "text_en": "Daddy Sam helped Bubu change into soft pajamas. They were pink with little stars. \"So comfy!\" Bubu twirled around.",
+      "image": "images/story9/page-12.jpg"
     },
     {
       "text": "最后，Tina 妈妈用吹风机帮咘咘吹头发。\"呜——\"暖暖的风吹过耳朵，咘咘眯起了眼睛，好舒服。",
-      "text_en": "Finally, Mommy Tina dried Bubu’s hair with a hairdryer. \"Woo—\" the warm air blew past her ears, and Bubu squinted her eyes in comfort."
+      "text_en": "Finally, Mommy Tina dried Bubu’s hair with a hairdryer. \"Woo—\" the warm air blew past her ears, and Bubu squinted her eyes in comfort.",
+      "image": "images/story9/page-13.jpg"
     },
     {
       "text": "咘咘爬上小床，Tina 妈妈帮她盖好被子。Sam 爸爸坐在床边：\"咘咘今天真棒，自己洗澡、刷牙、换衣服，都做到了。\"",
-      "text_en": "Bubu climbed into her little bed, and Mommy Tina tucked her in. Daddy Sam sat beside her: \"Bubu, you were amazing today. You bathed, brushed your teeth, and changed clothes all by yourself.\""
+      "text_en": "Bubu climbed into her little bed, and Mommy Tina tucked her in. Daddy Sam sat beside her: \"Bubu, you were amazing today. You bathed, brushed your teeth, and changed clothes all by yourself.\"",
+      "image": "images/story9/page-14.jpg"
     },
     {
       "text": "\"月亮也睡了，星星也睡了，豆豆睡了，慢慢睡了，NONO 睡了，NOMI 也睡了。现在，咘咘也要睡了。\"",
-      "text_en": "\"The moon is sleeping, the stars are sleeping, Doudou is sleeping, Manman is sleeping, NONO is sleeping, and NOMI is sleeping too. Now, it’s time for Bubu to sleep.\""
+      "text_en": "\"The moon is sleeping, the stars are sleeping, Doudou is sleeping, Manman is sleeping, NONO is sleeping, and NOMI is sleeping too. Now, it’s time for Bubu to sleep.\"",
+      "image": "images/story9/page-15.jpg"
     },
     {
       "text": "咘咘闭上眼睛，小声说：\"晚安，爸爸。晚安，妈妈。晚安，月亮。\"不一会儿，咘咘就甜甜地睡着了。",
-      "text_en": "Bubu closed her eyes and whispered: \"Goodnight, Daddy. Goodnight, Mommy. Goodnight, Moon.\" Before long, she was sound asleep."
+      "text_en": "Bubu closed her eyes and whispered: \"Goodnight, Daddy. Goodnight, Mommy. Goodnight, Moon.\" Before long, she was sound asleep.",
+      "image": "images/story9/page-16.jpg"
     }
-  ]
+  ],
+  "coverImage": "images/story9/page-01.jpg"
 }
