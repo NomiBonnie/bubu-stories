@@ -4,7 +4,7 @@ import './StoryReader.css'
 const BASE = import.meta.env.BASE_URL
 
 function imgUrl(id, pageNum) {
-  return `${BASE}images/${id}/page-${String(pageNum).padStart(2, '0')}.jpg?v=20260420b`
+  return `${BASE}images/${id}/page-${String(pageNum).padStart(2, '0')}.jpg?v=20260424`
 }
 
 export default function StoryReader({ story, storyId, onBack, lang, toggleLang }) {
