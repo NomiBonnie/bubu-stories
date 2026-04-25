@@ -1,5 +1,19 @@
 [
   {
+    "id": "story34",
+    "title": "妈妈生日快乐",
+    "chapter": 34,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "生日",
+      "爱",
+      "家庭",
+      "英语启蒙"
+    ],
+    "title_en": "Happy Birthday Mom"
+  },
+  {
     "id": "story33",
     "title": "咘咘的科技馆大冒险",
     "chapter": 33,

@@ -35,6 +35,7 @@ import story30 from '../stories/story30.json'
 import story31 from '../stories/story31.json'
 import story32 from '../stories/story32.json'
 import story33 from '../stories/story33.json'
+import story34 from '../stories/story34.json'
 
 const storyMap = {
   'story1': story1,
@@ -69,7 +70,8 @@ const storyMap = {
   'story30': story30,
   'story31': story31,
   'story32': story32,
-  'story33': story33
+  'story33': story33,
+  'story34': story34
 }
 
 function getRoute() {
