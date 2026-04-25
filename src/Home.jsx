@@ -13,7 +13,7 @@ export default function Home({ stories, onSelect, lang, toggleLang }) {
       <div className="home-divider" />
       <div className="stories-grid">
         {stories.map(s => {
-          const coverImg = `${BASE}images/${s.id}/${s.cover}.jpg`
+          const coverImg = `${BASE}images/${s.id}/${s.cover}.jpg?v=20260425-1230`
           return (
             <div key={s.id} className="story-card" onClick={() => onSelect(s.id)}>
               <div className="story-card-info">

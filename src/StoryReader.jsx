@@ -5,7 +5,7 @@ import './StoryReader.css'
 const BASE = import.meta.env.BASE_URL
 
 function imgUrl(id, pageNum) {
-  const buildTime = '20260424-2353'; // Force bundle rehash
+  const buildTime = '20260425-1230'; // Force bundle rehash
   return `${BASE}images/${id}/page-${String(pageNum).padStart(2, '0')}.jpg?v=${buildTime}`
 }
 
