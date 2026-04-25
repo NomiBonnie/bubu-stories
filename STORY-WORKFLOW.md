@@ -126,28 +126,52 @@ BACKGROUND: [场景相关背景元素]. Rich layered movie poster depth composit
    'storyXX': storyXX
    ```
 
-### Step 6: 构建 + 部署 + Git
+### Step 6: 构建 + 部署 + Git ⚠️ 最容易出错的一步
+
+**双端部署 = Cloudflare + GitHub 必须都成功，缺一不可。**
 
 ```bash
-# 1. 构建（必须有 CF_PAGES=1）
+# 1. 构建（必须有 CF_PAGES=1，否则资源路径错误导致 404）
 cd ~/.openclaw/workspace/bubu-stories
 CF_PAGES=1 npm run build
 
-# 2. 部署到 Cloudflare
+# 2. 部署到 Cloudflare（用户看到的实际网站）
 export CLOUDFLARE_API_TOKEN="XaJ24dHOerl_9ddOr1ayc-XR6VEvqPLmdmu2-JM8"
 npx wrangler pages deploy dist --project-name bubu-stories --commit-dirty=true
 
-# 3. Git 提交 + 推送
+# 3. Git 提交 + 推送（源代码备份 + GitHub Pages 备用）
 git add -A
-git commit -m "Add Story XX: 中文标题 / English Title"
+git commit -m "Add Story XX: 中文标题 / English Title
+
+- XX pages with [故事主题]
+- Tags: [标签1], [标签2], [标签3]"
 git push
 ```
 
-**部署检查清单：**
-- [ ] `CF_PAGES=1` 环境变量设置了？
-- [ ] Cloudflare 部署成功？
-- [ ] Git push 成功？
-- [ ] 双端（Cloudflare + GitHub）一致？
+**部署检查清单（每次都必须执行）：**
+- [ ] `CF_PAGES=1` 环境变量设置了？（没设会导致资源路径变成 `/bubu-stories/assets/...` 而不是 `/assets/...`，404）
+- [ ] `npm run build` 成功？（检查 dist/ 目录有内容）
+- [ ] Cloudflare 部署成功？（输出 `Deployment complete!` + URL）
+- [ ] Git commit 成功？（16 files changed 之类的输出）
+- [ ] Git push 成功？（`main -> main` 输出）
+- [ ] 浏览器验证：打开 https://bubu.sanono.xyz 能看到新故事？能点进去？
+- [ ] GitHub 验证：https://github.com/NomiBonnie/bubu-stories 最新 commit 包含新故事？
+
+**常见部署错误：**
+
+| 症状 | 原因 | 解决 |
+|------|------|------|
+| 首页看不到新故事 | index.json 没更新 | 检查 Step 5 |
+| 首页能看到但点不进去 | App.jsx 没加 storyMap | 检查 Step 5 |
+| 打开后图片 404 | CF_PAGES=1 没设 | 重新 build + deploy |
+| Cloudflare 部署成功但看不到 | 缓存问题 | 硬刷新（Cmd+Shift+R）或等 1 分钟 |
+| Git push 失败 | 网络问题或冲突 | `git pull --rebase` 后重试 |
+
+**为什么需要双端？**
+- **Cloudflare**：用户访问的实际网站，快速全球 CDN
+- **GitHub**：源代码备份 + 协作 + 版本历史 + 备用部署（GitHub Pages）
+
+两者必须保持一致，否则网站和代码会不同步。
 
 ---
 
