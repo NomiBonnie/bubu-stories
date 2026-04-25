@@ -1,5 +1,19 @@
 [
   {
+    "id": "story33",
+    "title": "咘咘的科技馆大冒险",
+    "chapter": 33,
+    "pages": 9,
+    "cover": "page-01",
+    "tags": [
+      "科学",
+      "好奇心",
+      "英语启蒙",
+      "探索"
+    ],
+    "title_en": "Science Museum"
+  },
+  {
     "id": "story32",
     "title": "咘咘学说Hello",
     "title_en": "Bubu Learns to Say Hello",
