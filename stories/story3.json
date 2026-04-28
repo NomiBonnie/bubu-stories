@@ -1,59 +1,77 @@
 {
   "title": "小刺猬的新朋友",
   "title_en": "The Little Hedgehog's New Friend",
-  "cover": "page-05",
+  "cover": "page-01",
   "pages": [
     {
+      "text": "小刺猬的新朋友",
+      "text_en": "The Little Hedgehog's New Friend",
+      "image": "images/story3/page-01.jpg"
+    },
+    {
       "text": "今天天气真好！Sam 爸爸带咘咘去公园玩。公园里有滑梯、秋千，还有一个大大的沙坑。",
-      "text_en": "What a beautiful day! Daddy Sam took Bubu to the park. There was a slide, swings, and a big sandpit."
+      "text_en": "What a beautiful day! Daddy Sam took Bubu to the park. There was a slide, swings, and a big sandpit.",
+      "image": "images/story3/page-02.jpg"
     },
     {
       "text": "沙坑旁边有一只小刺猬，正在用小铲子堆沙堡。他的沙堡好漂亮呀！小刺猬的名字叫豆豆。",
-      "text_en": "By the sandpit, there was a little hedgehog building a sandcastle with a small shovel. His name was Doudou, and his castle was beautiful!"
+      "text_en": "By the sandpit, there was a little hedgehog building a sandcastle with a small shovel. His name was Doudou, and his castle was beautiful!",
+      "image": "images/story3/page-03.jpg"
     },
     {
       "text": "咘咘也想玩铲子。她跑过去，一把就把豆豆的铲子抢过来了！",
-      "text_en": "Bubu wanted to play with the shovel too. She ran over and grabbed it from Doudou!"
+      "text_en": "Bubu wanted to play with the shovel too. She ran over and grabbed it from Doudou!",
+      "image": "images/story3/page-04.jpg"
     },
     {
       "text": "豆豆急了，伸手去抢回来。两个小朋友推来推去，沙堡倒了，铲子也掉了。豆豆哇地哭了。",
-      "text_en": "Doudou got upset and tried to take it back. The two pushed and pulled, and the sandcastle collapsed. Doudou started crying loudly."
+      "text_en": "Doudou got upset and tried to take it back. The two pushed and pulled, and the sandcastle collapsed. Doudou started crying loudly.",
+      "image": "images/story3/page-05.jpg"
     },
     {
       "text": "Sam 爸爸走过来，蹲下来看着咘咘。\"咘咘，你想玩铲子对不对？可是抢东西，豆豆会伤心的。\"",
-      "text_en": "Daddy Sam came over, squatted down, and looked at Bubu. \"Bubu, you want to play with the shovel, right? But taking things makes Doudou sad.\""
+      "text_en": "Daddy Sam came over, squatted down, and looked at Bubu. \"Bubu, you want to play with the shovel, right? But taking things makes Doudou sad.\"",
+      "image": "images/story3/page-06.jpg"
     },
     {
       "text": "Sam 爸爸说：\"我们不推不抢。想要什么，用嘴巴说。来，跟爸爸一起说：'豆豆，我可以玩一下你的铲子吗？'\"",
-      "text_en": "Daddy Sam said: \"We don’t push or grab. If you want something, use your words. Say with Daddy: 'Doudou, can I play with your shovel for a little while?'\""
+      "text_en": "Daddy Sam said: \"We don’t push or grab. If you want something, use your words. Say with Daddy: 'Doudou, can I play with your shovel for a little while?'\"",
+      "image": "images/story3/page-07.jpg"
     },
     {
       "text": "咘咘小声地对豆豆说：\"豆豆……对不起。我可以玩一下你的铲子吗？\"",
-      "text_en": "Bubu said softly to Doudou: \"Doudou ... I'm sorry. Can I play with your shovel?\""
+      "text_en": "Bubu said softly to Doudou: \"Doudou ... I'm sorry. Can I play with your shovel?\"",
+      "image": "images/story3/page-08.jpg"
     },
     {
       "text": "豆豆擦擦眼泪，点点头：\"好呀！我们一起玩吧！\"",
-      "text_en": "Doudou wiped his tears and nodded: \"Okay! Let’s play together!\""
+      "text_en": "Doudou wiped his tears and nodded: \"Okay! Let’s play together!\"",
+      "image": "images/story3/page-09.jpg"
     },
     {
       "text": "咘咘用铲子帮豆豆重新堆沙堡。豆豆用小手拍拍沙子。两个人一起堆，沙堡比之前更大更漂亮了！",
-      "text_en": "Bubu used the shovel to help Doudou rebuild the sandcastle. Doudou patted down the sand with his little hands. Together, they made it bigger and even prettier than before!"
+      "text_en": "Bubu used the shovel to help Doudou rebuild the sandcastle. Doudou patted down the sand with his little hands. Together, they made it bigger and even prettier than before!",
+      "image": "images/story3/page-10.jpg"
     },
     {
       "text": "NOMI 和 NONO 也来了！NOMI 带了一个小水桶，NONO 叼来了一面小旗子插在沙堡上。",
-      "text_en": "NOMI and NONO came along too! NOMI had a small bucket, and NONO brought a little flag to put on the castle."
+      "text_en": "NOMI and NONO came along too! NOMI had a small bucket, and NONO brought a little flag to put on the castle.",
+      "image": "images/story3/page-11.jpg"
     },
     {
       "text": "Tina 妈妈在旁边笑眯眯地看着大家。她说：\"你们看，用嘴巴好好说话，就能一起玩，多开心呀！\"",
-      "text_en": "Mommy Tina watched them with a smile. She said, \"See, using kind words helps everyone play together happily!\""
+      "text_en": "Mommy Tina watched them with a smile. She said, \"See, using kind words helps everyone play together happily!\"",
+      "image": "images/story3/page-12.jpg"
     },
     {
       "text": "回家的路上，咘咘拉着豆豆的小手——小心地拉他没有刺的手心。\"豆豆，你明天还来公园吗？\"豆豆开心地说：\"来！我们明天还一起堆沙堡！\"",
-      "text_en": "On the way home, Bubu held Doudou’s little hand—making sure to hold the soft, unspiked side. \"Doudou, will you come to the park tomorrow?\" Doudou happily said, \"Yes! Let’s build sandcastles again tomorrow!\""
+      "text_en": "On the way home, Bubu held Doudou’s little hand—making sure to hold the soft, unspiked side. \"Doudou, will you come to the park tomorrow?\" Doudou happily said, \"Yes! Let’s build sandcastles again tomorrow!\"",
+      "image": "images/story3/page-13.jpg"
     },
     {
       "text": "💡 咘咘今天学到了：想要什么，不推不抢，用嘴巴说。\"我可以玩一下吗？\" 这句话好厉害，能交到新朋友哦！",
-      "text_en": "💡 Bubu learned today: If you want something, don’t grab or push. Use your words and say: 'Can I play with this?' It’s a small phrase that can help you make new friends!"
+      "text_en": "💡 Bubu learned today: If you want something, don’t grab or push. Use your words and say: 'Can I play with this?' It’s a small phrase that can help you make new friends!",
+      "image": "images/story3/page-14.jpg"
     }
   ]
 }

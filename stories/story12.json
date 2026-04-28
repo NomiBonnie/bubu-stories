@@ -1,87 +1,109 @@
 {
   "title": "咘咘自己走",
-  "cover": "page-07",
+  "cover": "page-01",
   "pages": [
+    {
+      "text": "咘咘自己走",
+      "text_en": "Bubu Walks on Her Own",
+      "image": "images/story12/page-01.jpg"
+    },
     {
       "text": "咘咘出门的时候，总是喊：\"抱抱！抱抱！\"爸爸就把她抱起来。妈妈也把她抱起来。可是咘咘越来越大了，越来越重了。",
       "imagePrompt": "Pixar 3D animation style, a golden retriever (Sam papa) wearing a casual light cotton T-shirt struggling to carry a growing white baby bunny (snow-white fur, pink inner ears, big brown eyes) in a light pink summer dress with pink bow, the dog sweating, a black-and-white spotted cow (Tina mama) in spring floral dress watching with a concerned smile, sunny spring park entrance, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Whenever Bubu went outside, she would cry, \"Carry me! Carry me!\" Daddy would pick her up. Mommy would pick her up. But Bubu was getting bigger and heavier!"
+      "text_en": "Whenever Bubu went outside, she would cry, \"Carry me! Carry me!\" Daddy would pick her up. Mommy would pick her up. But Bubu was getting bigger and heavier!",
+      "image": "images/story12/page-02.jpg"
     },
     {
       "text": "今天大家一起去公园玩。豆豆自己背着小书包，蹦蹦跳跳走在最前面：\"快来呀快来呀！\"",
       "imagePrompt": "Pixar 3D animation style, a small brown hedgehog (Doudou) with warm brown eyes and tiny spikes wearing a green summer T-shirt and a tiny backpack, skipping happily far ahead on a spring flower-lined path, a white baby bunny watching from golden retriever's arms, spring morning sunshine, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Today everyone went to the park together. Doudou carried his little backpack and bounced ahead. \"Come on, come on!\""
+      "text_en": "Today everyone went to the park together. Doudou carried his little backpack and bounced ahead. \"Come on, come on!\"",
+      "image": "images/story12/page-03.jpg"
     },
     {
       "text": "慢慢也在自己走。虽然走得慢，但是一步一步，稳稳的：\"我已经走了好远好远了哦。\"",
       "imagePrompt": "Pixar 3D animation style, a small green turtle (Manman) with dark green shell walking slowly but steadily along a spring path, leaving tiny footprints stretching far behind, a white baby bunny watching from golden retriever's arms with curious impressed eyes, beautiful spring scenery, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Manman was walking on her own too. Slow but steady, one step at a time. \"I've walked really far already!\""
+      "text_en": "Manman was walking on her own too. Slow but steady, one step at a time. \"I've walked really far already!\"",
+      "image": "images/story12/page-04.jpg"
     },
     {
       "text": "NONO 在树枝上飞来飞去：\"咘咘，从上面看公园好漂亮！你下来走走就能看到更多！\"",
       "imagePrompt": "Pixar 3D animation style, a small red bird (NONO) with bright red feathers and a tiny yellow beak perched on a spring cherry blossom branch, calling down to a white baby bunny in pink summer dress being carried by a golden retriever, spring park with flowers and butterflies visible from ground level, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "NONO hopped from branch to branch. \"Bubu, the park looks so pretty from up here! Come walk around and you'll see even more!\""
+      "text_en": "NONO hopped from branch to branch. \"Bubu, the park looks so pretty from up here! Come walk around and you'll see even more!\"",
+      "image": "images/story12/page-05.jpg"
     },
     {
       "text": "NOMI 走到咘咘旁边说：\"咘咘你看，豆豆和慢慢都在自己走。你的脚比慢慢的脚大多了，肯定也能走得很好！\"",
       "imagePrompt": "Pixar 3D animation style, a raccoon (gray-brown fur, black eye mask, ringed tail) in blue-and-white striped T-shirt pointing at a turtle walking in the distance, then pointing at a white baby bunny's feet dangling from golden retriever's arms, the bunny looking down at her own feet with a realization expression, spring meadow, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "NOMI walked over to Bubu and said, \"Look, Doudou and Manman are both walking by themselves. Your feet are much bigger than Manman's — you can definitely walk well too!\""
+      "text_en": "NOMI walked over to Bubu and said, \"Look, Doudou and Manman are both walking by themselves. Your feet are much bigger than Manman's — you can definitely walk well too!\"",
+      "image": "images/story12/page-06.jpg"
     },
     {
       "text": "咘咘看看慢慢的小短腿，再看看自己的脚。真的耶，自己的脚更大！\"爸爸，把我放下来。\"",
       "imagePrompt": "Pixar 3D animation style, close-up of a white baby bunny looking down comparing her feet to a small green turtle's tiny legs nearby, the bunny having a lightbulb moment with determined eyes, golden retriever gently lowering her to the spring grass, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Bubu looked at Manman's tiny legs, then at her own feet. They really were bigger! \"Daddy, put me down.\""
+      "text_en": "Bubu looked at Manman's tiny legs, then at her own feet. They really were bigger! \"Daddy, put me down.\"",
+      "image": "images/story12/page-07.jpg"
     },
     {
       "text": "咘咘的小脚踩在草地上，软软的，痒痒的。她迈出第一步，有点摇晃。妈妈在旁边说：\"不急，慢慢走。\"",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress taking a wobbly first step on soft spring grass, bare feet feeling the grass, cow mama in floral dress walking alongside with arms ready to catch but not touching, warm encouraging scene, spring flowers and sunshine, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Bubu's little feet touched the grass — soft and tickly! She took her first step, a little wobbly. Mommy said, \"No rush, take it slow.\""
+      "text_en": "Bubu's little feet touched the grass — soft and tickly! She took her first step, a little wobbly. Mommy said, \"No rush, take it slow.\"",
+      "image": "images/story12/page-08.jpg"
     },
     {
       "text": "第二步，稳了一点。第三步，更稳了！豆豆跑回来喊：\"咘咘你在走路啦！来追我呀！\"",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress taking confident steps on spring grass, a brown hedgehog in green T-shirt running back excitedly waving and cheering, raccoon and turtle clapping in background, spring park with colorful flowers, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Second step, a bit steadier. Third step, even better! Doudou ran back and shouted, \"Bubu, you're walking! Come chase me!\""
+      "text_en": "Second step, a bit steadier. Third step, even better! Doudou ran back and shouted, \"Bubu, you're walking! Come chase me!\"",
+      "image": "images/story12/page-09.jpg"
     },
     {
       "text": "咘咘迈开腿去追豆豆，虽然跑得不快，但是——她在自己跑！\"我在跑！我自己在跑！\"",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress running on spring grass chasing a laughing hedgehog, the bunny's steps a bit clumsy but joyful, arms swinging, biggest smile, golden retriever and cow watching from a bench with proud tearful expressions, spring park, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Bubu started running after Doudou. Not very fast, but — she was running all by herself! \"I'm running! I'm running on my own!\""
+      "text_en": "Bubu started running after Doudou. Not very fast, but — she was running all by herself! \"I'm running! I'm running on my own!\"",
+      "image": "images/story12/page-10.jpg"
     },
     {
       "text": "咘咘和大家一起玩滑梯。自己爬上去，自己滑下来。\"再来一次！\"如果在爸爸怀里，可玩不了滑梯。",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress sliding down a colorful playground slide with arms up and laughing, hedgehog and turtle waiting at the bottom cheering, raccoon in blue striped T-shirt at the top of the slide, red bird flying around, spring park playground, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Bubu played on the slide with everyone. She climbed up by herself and slid down by herself. \"Again!\" She couldn't do that in Daddy's arms!"
+      "text_en": "Bubu played on the slide with everyone. She climbed up by herself and slid down by herself. \"Again!\" She couldn't do that in Daddy's arms!",
+      "image": "images/story12/page-11.jpg"
     },
     {
       "text": "玩累了，咘咘走到爸爸旁边坐下来。Sam 爸爸说：\"累了就休息一会儿，不用抱，自己坐一坐就好。\"",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress sitting on a park bench next to a golden retriever in cotton T-shirt, both drinking from juice boxes, the bunny swinging her tired little legs happily, spring trees and flowers around, peaceful resting moment, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "After playing, Bubu sat down next to Daddy. Daddy said, \"If you're tired, just rest a bit. No need to be carried — just sit for a while.\""
+      "text_en": "After playing, Bubu sat down next to Daddy. Daddy said, \"If you're tired, just rest a bit. No need to be carried — just sit for a while.\"",
+      "image": "images/story12/page-12.jpg"
     },
     {
       "text": "休息好了，咘咘又站起来了。慢慢说：\"咘咘，我们一起走回家吧！\"咘咘点点头：\"走！\"",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress and a green turtle standing up together ready to go, the bunny looking energized and determined, spring park sunset beginning, hedgehog and raccoon and red bird joining them, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "After resting, Bubu stood up again. Manman said, \"Bubu, let's walk home together!\" Bubu nodded. \"Let's go!\""
+      "text_en": "After resting, Bubu stood up again. Manman said, \"Bubu, let's walk home together!\" Bubu nodded. \"Let's go!\"",
+      "image": "images/story12/page-13.jpg"
     },
     {
       "text": "回家的路上，咘咘走在最前面。\"爸爸妈妈快点！跟上我！\"大家都笑了。",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress walking confidently ahead on a spring sunset path, looking back and waving at golden retriever and cow who follow behind with proud happy expressions, hedgehog and turtle and raccoon and red bird walking together, cherry blossom petals falling, golden hour light, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "On the way home, Bubu walked in front. \"Daddy, Mommy, hurry up! Keep up with me!\" Everyone laughed."
+      "text_en": "On the way home, Bubu walked in front. \"Daddy, Mommy, hurry up! Keep up with me!\" Everyone laughed.",
+      "image": "images/story12/page-14.jpg"
     },
     {
       "text": "到了家门口，爸爸蹲下来：\"今天走了好多路，累了吧？爸爸抱你进去。\"",
       "imagePrompt": "Pixar 3D animation style, a golden retriever kneeling at the front door of a cozy house, opening arms to offer a carry, a white baby bunny in pink summer dress standing and looking at him, spring evening warm light, gentle caring moment, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "At the front door, Daddy knelt down. \"You walked so much today. Tired? Daddy will carry you inside.\""
+      "text_en": "At the front door, Daddy knelt down. \"You walked so much today. Tired? Daddy will carry you inside.\"",
+      "image": "images/story12/page-15.jpg"
     },
     {
       "text": "咘咘想了想，摇摇头：\"我自己走进去！\"然后一步一步，自己走进了家门。爸爸妈妈在后面笑着说：\"咘咘长大了！\"",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress walking through the front door of a cozy home by herself with the most proud determined expression, golden retriever and cow standing behind with the proudest loving smiles and happy tears, warm spring evening light streaming through the door, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Bubu thought about it and shook her head. \"I'll walk in myself!\" Then step by step, she walked through the door. Daddy and Mommy smiled behind her. \"Bubu is growing up!\""
+      "text_en": "Bubu thought about it and shook her head. \"I'll walk in myself!\" Then step by step, she walked through the door. Daddy and Mommy smiled behind her. \"Bubu is growing up!\"",
+      "image": "images/story12/page-16.jpg"
     },
     {
       "text": "咘咘发现，自己走路，比抱抱还好玩！可以追豆豆，可以玩滑梯，可以走在最前面带路！大家都在自己走，咘咘也可以！累了就休息一下，再继续走。咘咘长大了，咘咘自己走！",
       "imagePrompt": "Pixar 3D animation style, a white baby bunny in pink summer dress standing tall and proud in the center, surrounded by all friends - golden retriever, cow, raccoon in blue striped T-shirt, hedgehog, turtle, and red bird on her head, spring flower petals falling, behind her a winding path representing her journey, the most warm triumphant celebratory scene, golden spring sunset light, children's picture book, vertical portrait composition 1024x1536",
-      "text_en": "Bubu discovered that walking on her own was even more fun than being carried! She could chase Doudou, play on slides, and lead the way! Everyone walks on their own, and Bubu can too! When tired, just rest a bit and keep going. Bubu is growing up — Bubu walks on her own!"
+      "text_en": "Bubu discovered that walking on her own was even more fun than being carried! She could chase Doudou, play on slides, and lead the way! Everyone walks on their own, and Bubu can too! When tired, just rest a bit and keep going. Bubu is growing up — Bubu walks on her own!",
+      "image": "images/story12/page-17.jpg"
     }
   ],
-  "title_en": "Bubu Walks on Her Own"
+  "title_en": "Bubu Walks on Her Own",
+  "coverImage": "images/story12/page-01.jpg"
 }
