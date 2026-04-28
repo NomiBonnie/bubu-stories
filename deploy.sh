@@ -25,7 +25,6 @@ echo "✅ Cloudflare 版本构建完成"
 # 3. 部署到 Cloudflare
 echo ""
 echo "☁️  部署到 Cloudflare Pages..."
-export CLOUDFLARE_API_TOKEN=$(jq -r '.api_token' ~/.config/cloudflare/config.json)
 npx wrangler pages deploy dist --project-name=bubu-stories --commit-dirty=true
 echo "✅ Cloudflare Pages 部署完成"
 echo "   访问: https://bubu.sanono.xyz"
