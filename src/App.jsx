@@ -117,5 +117,6 @@ export default function App() {
   if (route.view === 'story' && storyMap[route.id]) {
     return <StoryReader story={storyMap[route.id]} storyId={route.id} onBack={() => navigate('/')} lang={lang} toggleLang={toggleLang} />
   }
-  return <Home stories={storiesIndex} onSelect={(id) => navigate(`/story/${id}`)} lang={lang} toggleLang={toggleLang} />
+  const sortedStories = [...storiesIndex].sort((a, b) => (b.chapter || 0) - (a.chapter || 0))
+  return <Home stories={sortedStories} onSelect={(id) => navigate(`/story/${id}`)} lang={lang} toggleLang={toggleLang} />
 }
