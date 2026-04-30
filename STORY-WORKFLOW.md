@@ -11,12 +11,13 @@
 |------|-----|
 | 页数 | 12-13 页（含封面，不少于 12 页） |
 | 图片尺寸 | 1024×1536（竖版） |
-| 图片模型 | gpt-image-2（Poland Central: `gpt-image-2-1`） |
+| 图片模型 | gpt-image-2（East US 2: `image2_eastus2_api_key` + `image2_eastus2_endpoint`） |
 | 图片质量 | medium |
 | 输出格式 | PNG → ffmpeg -q:v 4 转 JPG |
 | API 限速 | 9 RPM，每张间隔 7 秒 |
-| API 配置 | `~/.config/azure-openai/config.json` 中的 `image2_poland_api_key` + `image2_poland_endpoint` |
+| API 配置 | `~/.config/azure-openai/config.json` 中的 `image2_eastus2_api_key` + `image2_eastus2_endpoint` |
 | API 版本 | `2025-04-01-preview` |
+| output_format | `png`（不支持 b64_json） |
 
 ---
 
