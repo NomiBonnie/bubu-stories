@@ -1,5 +1,6 @@
 .reader {
   height: 100vh;
+  height: 100dvh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -10,19 +11,11 @@
 }
 
 .reader-img {
+  flex: 1 1 0;
   width: 100%;
+  min-height: 0;
+  object-fit: contain;
   display: block;
-}
-
-/* Desktop: image fills remaining space after text/dots, fitting viewport exactly */
-@media (min-width: 769px) {
-  .reader-img {
-    flex: 1 1 0;
-    width: auto;
-    min-height: 0;
-    object-fit: contain;
-    margin: 0 auto;
-  }
 }
 
 .reader-text {
