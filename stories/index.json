@@ -1,5 +1,19 @@
 [
   {
+    "id": "story39",
+    "title": "五一湖边露营",
+    "chapter": 39,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "露营",
+      "湖边",
+      "假期",
+      "英语启蒙"
+    ],
+    "title_en": "Camping by the Lake"
+  },
+  {
     "id": "story38",
     "title": "咘咘不要吐口水",
     "chapter": 38,
