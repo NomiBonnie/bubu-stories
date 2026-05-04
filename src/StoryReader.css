@@ -11,9 +11,12 @@
 }
 
 .reader-img {
+  flex: 1 1 0;
   width: 100%;
+  min-height: 0;
+  object-fit: contain;
+  object-position: center top;
   display: block;
-  flex-shrink: 0;
 }
 
 /* Phone: image full width, page scrolls for text */
