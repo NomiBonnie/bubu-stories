@@ -7,23 +7,22 @@
   align-items: center;
   background: var(--bg-dark);
   cursor: pointer;
-  overflow-y: auto;
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
-  touch-action: pan-y;
+  overflow: hidden;
 }
 
 .reader-img {
   width: 100%;
   display: block;
-  flex-shrink: 0;
+  flex-shrink: 1;
+  min-height: 0;
+  object-fit: contain;
 }
 
 /* Tablets and larger: cap image height to leave room for text */
 @media (min-width: 768px) {
   .reader-img {
-    max-height: 72vh;
-    max-height: 72dvh;
+    max-height: 90vh;
+    max-height: 90dvh;
     object-fit: contain;
   }
 }
@@ -54,10 +53,10 @@
 }
 
 /* iPad/tablet landscape: image must leave room for text */
-@media (orientation: landscape) {
+@media (orientation: landscape) and (min-width: 768px) {
   .reader-img {
-    max-height: 65vh;
-    max-height: 65dvh;
+    max-height: 80vh;
+    max-height: 80dvh;
   }
 }
 
@@ -65,7 +64,8 @@
   display: flex;
   justify-content: center;
   gap: 6px;
-  padding-bottom: 8px;
+  padding: 8px 0;
+  flex-shrink: 0;
 }
 
 .dot {
@@ -88,7 +88,8 @@
   color: rgba(255,255,255,0.25);
   font-size: 12px;
   letter-spacing: 2px;
-  padding-bottom: 16px;
+  padding-bottom: env(safe-area-inset-bottom, 8px);
+  flex-shrink: 0;
 }
 
 .reader-back {
