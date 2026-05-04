@@ -1,5 +1,19 @@
 [
   {
+    "id": "story41",
+    "title": "咘咘梦想成真",
+    "chapter": 41,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "梦想",
+      "烧烤",
+      "惊喜",
+      "英语启蒙"
+    ],
+    "title_en": "Dreams Come True"
+  },
+  {
     "id": "story40",
     "title": "咘咘摔倒了自己爬起来",
     "chapter": 40,
