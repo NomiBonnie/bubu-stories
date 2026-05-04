@@ -7,17 +7,25 @@
   align-items: center;
   background: var(--bg-dark);
   cursor: pointer;
-  overflow: hidden;
-  touch-action: pan-x;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
 }
 
 .reader-img {
   width: 100%;
-  max-height: 72vh;
-  max-height: 72dvh;
-  object-fit: contain;
   display: block;
   flex-shrink: 0;
+}
+
+/* Tablets and larger: cap image height to leave room for text */
+@media (min-width: 768px) {
+  .reader-img {
+    max-height: 72vh;
+    max-height: 72dvh;
+    object-fit: contain;
+  }
 }
 
 .reader-text {
