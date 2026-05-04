@@ -20,8 +20,8 @@
   object-fit: contain;
 }
 
-/* iPad portrait: limit image height */
-@media (min-width: 768px) {
+/* iPad (including iPad mini 744px) portrait: limit image height */
+@media (min-width: 700px) {
   .reader-img {
     max-height: 90vh;
     max-height: 90dvh;
@@ -29,7 +29,7 @@
 }
 
 /* iPad landscape: limit image height */
-@media (min-width: 768px) and (orientation: landscape) {
+@media (min-width: 700px) and (orientation: landscape) {
   .reader-img {
     max-height: 85vh;
     max-height: 85dvh;
