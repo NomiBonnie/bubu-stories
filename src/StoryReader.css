@@ -13,14 +13,22 @@
 .reader-img {
   width: 100%;
   display: block;
-  flex-shrink: 1;
-  min-height: 0;
-  object-fit: contain;
+  flex-shrink: 0;
+}
+
+/* Phone: image full width, page scrolls for text */
+@media (max-width: 767px) {
+  .reader {
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
 }
 
 /* Tablets and larger: cap image height to leave room for text */
 @media (min-width: 768px) {
   .reader-img {
+    flex-shrink: 1;
+    min-height: 0;
     max-height: 90vh;
     max-height: 90dvh;
     object-fit: contain;
