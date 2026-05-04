@@ -12,7 +12,28 @@ function imgUrl(id, pageNum) {
 export default function StoryReader({ story, storyId, onBack, lang, toggleLang }) {
   const [page, setPage] = useState(0)
   const touchRef = useRef(null)
+  const readerRef = useRef(null)
   const total = story.pages.length
+
+  // Disable pinch-to-zoom on iOS Safari
+  useEffect(() => {
+    const prevent = (e) => { if (e.touches && e.touches.length > 1) e.preventDefault() }
+    document.addEventListener('touchmove', prevent, { passive: false })
+    // Also prevent gesturestart (Safari specific)
+    const preventGesture = (e) => e.preventDefault()
+    document.addEventListener('gesturestart', preventGesture, { passive: false })
+    document.addEventListener('gesturechange', preventGesture, { passive: false })
+    return () => {
+      document.removeEventListener('touchmove', prevent)
+      document.removeEventListener('gesturestart', preventGesture)
+      document.removeEventListener('gesturechange', preventGesture)
+    }
+  }, [])
+
+  // Scroll to top on page change
+  useEffect(() => {
+    if (readerRef.current) readerRef.current.scrollTop = 0
+  }, [page])
 
   const go = useCallback((dir) => {
     setPage(p => {
@@ -34,11 +55,16 @@ export default function StoryReader({ story, storyId, onBack, lang, toggleLang }
     }
   }, [page, total, storyId])
 
-  const onTouchStart = (e) => { touchRef.current = e.touches[0].clientX }
+  const onTouchStart = (e) => {
+    if (e.touches.length > 1) return // ignore multi-touch
+    touchRef.current = { x: e.touches[0].clientX, y: e.touches[0].clientY }
+  }
   const onTouchEnd = (e) => {
     if (touchRef.current === null) return
-    const diff = e.changedTouches[0].clientX - touchRef.current
-    if (Math.abs(diff) > 50) go(diff < 0 ? 1 : -1)
+    const dx = e.changedTouches[0].clientX - touchRef.current.x
+    const dy = e.changedTouches[0].clientY - touchRef.current.y
+    // Only swipe if horizontal movement > vertical (not scrolling)
+    if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) go(dx < 0 ? 1 : -1)
     touchRef.current = null
   }
 
@@ -63,6 +89,7 @@ export default function StoryReader({ story, storyId, onBack, lang, toggleLang }
   return (
     <div
       className="reader"
+      ref={readerRef}
       onClick={onClick}
       onTouchStart={onTouchStart}
       onTouchEnd={onTouchEnd}
