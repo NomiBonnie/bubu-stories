@@ -4,70 +4,50 @@
   height: 100dvh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   background: var(--bg-dark);
   cursor: pointer;
   overflow: hidden;
 }
 
+/* Image: fills all available space, crops if needed, never shrinks */
 .reader-img {
   flex: 1 1 0;
   width: 100%;
   min-height: 0;
-  object-fit: contain;
-  object-position: center top;
+  object-fit: cover;
+  object-position: center center;
   display: block;
 }
 
-/* Phone: image full width, page scrolls for text */
-@media (max-width: 767px) {
-  .reader {
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
-  }
-}
-
-/* Tablets and larger: cap image height to leave room for text */
-@media (min-width: 768px) {
-  .reader-img {
-    flex-shrink: 1;
-    min-height: 0;
-    max-height: 90vh;
-    max-height: 90dvh;
-    object-fit: contain;
-  }
-}
-
+/* Bottom panel: text + dots + page number, fixed at bottom */
 .reader-text {
-  padding: 16px 28px;
+  padding: 12px 24px;
   text-align: left;
   color: #F5F0EB;
   font-family: 'Noto Sans SC', serif;
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 300;
-  line-height: 1.8;
+  line-height: 1.7;
   letter-spacing: 0.5px;
-  flex: 1 1 auto;
+  max-height: 25vh;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+  flex-shrink: 0;
 }
 
 @media (max-width: 480px) {
   .reader-text {
-    font-size: 16px;
-    padding: 12px 20px;
-    line-height: 1.75;
+    font-size: 15px;
+    padding: 10px 16px;
+    line-height: 1.65;
+    max-height: 20vh;
   }
 }
 
-/* iPad/tablet landscape: image must leave room for text */
+/* iPad landscape: give more text room */
 @media (orientation: landscape) and (min-width: 768px) {
-  .reader-img {
-    max-height: 80vh;
-    max-height: 80dvh;
+  .reader-text {
+    max-height: 30vh;
   }
 }
 
@@ -75,7 +55,7 @@
   display: flex;
   justify-content: center;
   gap: 6px;
-  padding: 8px 0;
+  padding: 6px 0;
   flex-shrink: 0;
 }
 
@@ -99,7 +79,7 @@
   color: rgba(255,255,255,0.25);
   font-size: 12px;
   letter-spacing: 2px;
-  padding-bottom: env(safe-area-inset-bottom, 8px);
+  padding-bottom: env(safe-area-inset-bottom, 6px);
   flex-shrink: 0;
 }
 
