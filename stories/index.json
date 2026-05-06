@@ -1,5 +1,20 @@
 [
   {
+    "id": "story42",
+    "title": "咘咘去野生动物园",
+    "chapter": 42,
+    "pages": 18,
+    "cover": "page-01",
+    "tags": [
+      "动物园",
+      "小熊猫",
+      "浣熊",
+      "英语启蒙",
+      "冒险"
+    ],
+    "title_en": "A Day at the Zoo"
+  },
+  {
     "id": "story41",
     "title": "咘咘梦想成真",
     "chapter": 41,
