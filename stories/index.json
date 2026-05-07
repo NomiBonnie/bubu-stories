@@ -1,5 +1,19 @@
 [
   {
+    "id": "story43",
+    "title": "咘咘去上海天文馆",
+    "chapter": 43,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "天文馆",
+      "宇宙",
+      "星星",
+      "英语启蒙"
+    ],
+    "title_en": "Journey to the Stars"
+  },
+  {
     "id": "story42",
     "title": "咘咘去野生动物园",
     "chapter": 42,
