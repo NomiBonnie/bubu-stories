@@ -1,5 +1,19 @@
 [
   {
+    "id": "story45",
+    "title": "咘咘上幼儿园的第一天",
+    "chapter": 45,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "幼儿园",
+      "成长",
+      "第一天",
+      "英语启蒙"
+    ],
+    "title_en": "My First Day at School"
+  },
+  {
     "id": "story44",
     "title": "咘咘坐车喂动物",
     "chapter": 44,
