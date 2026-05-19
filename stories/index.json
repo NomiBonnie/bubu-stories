@@ -1,5 +1,19 @@
 [
   {
+    "id": "story46",
+    "title": "咘咘的第一个棒棒贴",
+    "chapter": 46,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "幼儿园",
+      "棒棒贴",
+      "进步",
+      "勇气"
+    ],
+    "title_en": "My First Gold Star"
+  },
+  {
     "id": "story45",
     "title": "咘咘上幼儿园的第一天",
     "chapter": 45,
