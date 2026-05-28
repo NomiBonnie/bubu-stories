@@ -139,10 +139,10 @@ def generate_volume(chapters, vol_label, vol_subtitle, out_filename, use_compres
             if th > max_text_h:
                 max_text_h = th
     
-    TEXT_AREA_H = max_text_h + 12*mm  # safety margin for padding
+    TEXT_AREA_H = max_text_h + 3*mm  # tight safety margin
     TEXT_AREA_H = max(TEXT_AREA_H, 35*mm)  # minimum
-    IMG_H = H - 3*mm - TEXT_AREA_H - 3*mm
-    IMG_Y = TEXT_AREA_H + 2*mm
+    IMG_H = H - 3*mm - TEXT_AREA_H - 1*mm
+    IMG_Y = TEXT_AREA_H + 1*mm
     
     # Final image bounds
     _ratio = min(IMG_W / 1024, IMG_H / 1536)
@@ -162,6 +162,11 @@ def generate_volume(chapters, vol_label, vol_subtitle, out_filename, use_compres
         '1B': 'volume1b-cover',
         '2A': 'volume2a-cover',
         '2B': 'volume2b-cover',
+        '3A': 'volume3a-cover',
+        '3B': 'volume3b-cover',
+        '4A': 'volume4a-cover',
+        '4B': 'volume4b-cover',
+        '5A': 'volume5a-cover',
     }
     cover_key = vol_label.split()[-1]  # e.g. 'Volume 1A' -> '1A'
     cover_name = cover_map.get(cover_key, 'volume1-cover-en')
@@ -223,7 +228,7 @@ def generate_volume(chapters, vol_label, vol_subtitle, out_filename, use_compres
                 c.setFillColor(white)
                 c.rect(0, 0, W, H, fill=1, stroke=0)
                 draw_image_fixed(c, img_path, IMG_H, IMG_Y)
-                y = TEXT_AREA_H - 8*mm
+                y = TEXT_AREA_H - 5*mm
                 if txt_zh:
                     y = draw_text(c, txt_zh, _IMG_DRAW_X, y, _IMG_DRAW_W, 'HeitiSC', 10.5, black, lang='zh')
                     y -= 2*mm
@@ -231,7 +236,7 @@ def generate_volume(chapters, vol_label, vol_subtitle, out_filename, use_compres
                     y = draw_text(c, txt_en, _IMG_DRAW_X, y, _IMG_DRAW_W, 'SFNS', 10, black, lang='en')
                 c.setFont('SFNS', 7)
                 c.setFillColor(black)
-                c.drawCentredString(W/2, 4*mm, str(cur_pg))
+                c.drawCentredString(W/2, 2*mm, str(cur_pg))
             
             c.showPage()
             cur_pg += 1
@@ -245,8 +250,15 @@ def generate_volume(chapters, vol_label, vol_subtitle, out_filename, use_compres
 
 # All volumes to generate
 volumes = [
+    ([1,2,3,4],    "Volume 1A", "Curiosity & Friends", "咘咘的故事书-1A-好奇与友情"),
+    ([5,6,7,8],    "Volume 1B", "Habits & Courage",    "咘咘的故事书-1B-习惯与勇气"),
+    ([9,10,11,12,13], "Volume 2A", "Growing Up",       "咘咘的故事书-2A-慢慢长大"),
+    ([14,15,16,17,18], "Volume 2B", "Daily Life",      "咘咘的故事书-2B-生活小事"),
     ([19,20,21,22,23,24], "Volume 3A", "Outdoor Adventures", "咘咘的故事书-3A-户外探索"),
     ([25,26,28,29,30,31], "Volume 3B", "Feelings & Friends", "咘咘的故事书-3B-情感与友谊"),
+    ([32,33,34,35,36,37], "Volume 4A", "Language & Love", "咘咘的故事书-4A-语言与爱"),
+    ([38,39,40,41,42,43], "Volume 4B", "Adventures",    "咘咘的故事书-4B-冒险记"),
+    ([44,45,46,47,48,49], "Volume 5A", "Kindergarten Days", "咘咘的故事书-5A-幼儿园的日子"),
 ]
 
 for chs, label, subtitle, name in volumes:

@@ -1,5 +1,19 @@
 [
   {
+    "id": "story50",
+    "title": "咘咘学会坐好",
+    "chapter": 50,
+    "pages": 15,
+    "cover": "page-01",
+    "tags": [
+      "幼儿园",
+      "好习惯",
+      "坐好",
+      "成长"
+    ],
+    "title_en": "Bubu Learns to Sit Still"
+  },
+  {
     "id": "story49",
     "title": "咘咘今天没有哭",
     "chapter": 49,
