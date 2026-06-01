@@ -1,5 +1,14 @@
 [
   {
+    "id": "story52",
+    "title": "咘咘的六一儿童节",
+    "chapter": 52,
+    "pages": 15,
+    "cover": "page-01",
+    "tags": ["六一", "儿童节", "幼儿园", "木偶剧", "友谊"],
+    "title_en": "Bubu's Children's Day"
+  },
+  {
     "id": "story51",
     "title": "咘咘会叫妈妈拉粑粑啦",
     "chapter": 51,
