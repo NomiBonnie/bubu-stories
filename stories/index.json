@@ -1,11 +1,32 @@
 [
   {
+    "id": "story53",
+    "title": "咘咘的幼儿园朋友们",
+    "chapter": 53,
+    "pages": 15,
+    "cover": "page-01",
+    "tags": [
+      "幼儿园",
+      "友谊",
+      "老师",
+      "朋友",
+      "快乐"
+    ],
+    "title_en": "Bubu's Kindergarten Friends"
+  },
+  {
     "id": "story52",
     "title": "咘咘的六一儿童节",
     "chapter": 52,
     "pages": 15,
     "cover": "page-01",
-    "tags": ["六一", "儿童节", "幼儿园", "木偶剧", "友谊"],
+    "tags": [
+      "六一",
+      "儿童节",
+      "幼儿园",
+      "木偶剧",
+      "友谊"
+    ],
     "title_en": "Bubu's Children's Day"
   },
   {
@@ -14,7 +35,12 @@
     "chapter": 51,
     "pages": 13,
     "cover": "page-01",
-    "tags": ["成长", "如厕", "里程碑", "好习惯"],
+    "tags": [
+      "成长",
+      "如厕",
+      "里程碑",
+      "好习惯"
+    ],
     "title_en": "Bubu Can Ask for the Potty Now!"
   },
   {
