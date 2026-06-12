@@ -1,11 +1,40 @@
 [
   {
+    "id": "story56",
+    "title": "咘咘要回深圳了",
+    "chapter": 56,
+    "pages": 18,
+    "cover": "page-01",
+    "tags": ["告别", "搬家", "深圳", "苏州", "友情", "幼儿园"],
+    "title_en": "Goodbye Suzhou, Hello Shenzhen"
+  },
+  {
+    "id": "story55",
+    "title": "咘咘在安吉度假",
+    "chapter": 55,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "度假",
+      "安吉",
+      "玩水",
+      "蹦蹦床"
+    ],
+    "title_en": "Bubu Holiday in Anji"
+  },
+  {
     "id": "story54",
     "title": "咘咘想念Oliver",
     "chapter": 54,
     "pages": 13,
     "cover": "page-01",
-    "tags": ["思念", "宠物", "Oliver", "家庭", "温馨"],
+    "tags": [
+      "思念",
+      "宠物",
+      "Oliver",
+      "家庭",
+      "温馨"
+    ],
     "title_en": "Bubu Misses Oliver"
   },
   {
