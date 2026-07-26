@@ -1,5 +1,21 @@
 [
   {
+    "id": "story62",
+    "title": "台风红霞来啦",
+    "chapter": 62,
+    "pages": 14,
+    "cover": "page-01",
+    "tags": [
+      "台风",
+      "天气",
+      "科普",
+      "勇敢",
+      "夏天",
+      "深圳"
+    ],
+    "title_en": "Typhoon Hongxia Is Coming!"
+  },
+  {
     "id": "story61",
     "title": "咘咘的毕业典礼和第一次看海",
     "chapter": 61,
