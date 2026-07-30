@@ -1,5 +1,21 @@
 [
   {
+    "id": "story64",
+    "title": "猪猪姐姐的生日",
+    "chapter": 64,
+    "pages": 18,
+    "cover": "page-01",
+    "tags": [
+      "生日",
+      "友谊",
+      "钓鱼",
+      "猪猪",
+      "礼物",
+      "夏天"
+    ],
+    "title_en": "Zhuzhu's Birthday"
+  },
+  {
     "id": "story63",
     "title": "咘咘的嘴唇不咬了",
     "chapter": 63,
