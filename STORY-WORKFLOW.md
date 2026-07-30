@@ -189,6 +189,11 @@ git push
 | 图文错位 | 图片编号和 JSON 页码不对应 | 生成时按顺序，完成后核对 |
 | 部署后 404 | 没设 CF_PAGES=1 | 部署命令必须带 |
 | 角色不一致 | Prompt 没内联完整描述 | 每张必须从 CHARACTER-BIBLE.md 复制 |
+| 爷爷变长脖子/白毛发 | Prompt 写了 brontosaurus 或 elderly | 爷爷=短脖子、绿皮肤、无毛发、头顶小刺、金圆眼镜。参考 Story 60 page-04 |
+| 奶奶变灰白头发 | Prompt 没强调棕色 | 奶奶=棕色毛发梳发髻、绿色耳坠。写 NOT grey/white hair |
+| 爸爸变四脚狗 | AI 默认画真实动物 | 所有角色写 bipedal anthropomorphic + NOT on all fours |
+| 背景出现兔子爸妈 | 只写 adults in background，AI 猜咘咘父母=兔子 | 必须明确写每个背景角色的完整物种描述 |
+| Node.js require 报错 | 项目 package.json 是 type:module | 生成脚本用 .cjs 后缀 |
 
 ---
 
