@@ -1,5 +1,21 @@
 [
   {
+    "id": "story66",
+    "title": "咘咘的早晨魔法歌",
+    "chapter": 66,
+    "pages": 19,
+    "cover": "page-01",
+    "tags": [
+      "早晨",
+      "洗漱",
+      "早餐",
+      "幼儿园",
+      "家人",
+      "成长"
+    ],
+    "title_en": "Bubu's Morning Song"
+  },
+  {
     "id": "story65",
     "title": "咘咘当值日生",
     "chapter": 65,
