@@ -1,6 +1,12 @@
 #!/bin/bash
 set -e
 
+# Non-interactive runs (for example, OpenClaw) do not load ~/.zshrc.
+# Load the existing single-source Cloudflare token when it is not already in the environment.
+if [[ -z "${CLOUDFLARE_API_TOKEN:-}" && -f "$HOME/.config/cloudflare/config.json" ]] && command -v jq >/dev/null 2>&1; then
+  export CLOUDFLARE_API_TOKEN="$(jq -r '.api_token // empty' "$HOME/.config/cloudflare/config.json")"
+fi
+
 echo "🚀 Bubu Stories 部署脚本"
 echo "========================"
 
