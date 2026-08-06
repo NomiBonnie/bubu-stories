@@ -140,8 +140,8 @@ cd ~/.openclaw/workspace/bubu-stories
 CF_PAGES=1 npm run build
 
 # 2. 部署到 Cloudflare（用户看到的实际网站）
-export CLOUDFLARE_API_TOKEN="XaJ24dHOerl_9ddOr1ayc-XR6VEvqPLmdmu2-JM8"
-npx wrangler pages deploy dist --project-name bubu-stories --commit-dirty=true
+# 不要在文档、脚本或聊天中写入 token。部署脚本会从既有本机配置安全读取。
+./deploy.sh
 
 # 3. Git 提交 + 推送（源代码备份 + GitHub Pages 备用）
 git add -A
@@ -222,7 +222,10 @@ bubu-stories/
 
 如果你是被 spawn 来做绘本的 sub-agent：
 1. **先读此文件**，然后读 `CHARACTER-BIBLE.md`
-2. 按 Step 1-4 执行（JSON + 图片生成）
-3. Step 5-6 由主 session 完成
-4. 图片生成完成后，报告每张文件的大小确认
+2. 按 Step 1-5 执行：已确认脚本、Azure Image2 图片、双份 JSON/索引、
+   前端映射和本地 lint/build；不得擅改 Sam 已确认的逐页脚本
+3. 不提交、不推送、不部署；交回完整文件清单、图片大小、lint/build 结果和
+   已知问题
+4. Coco 主 session 逐页验收角色、文字、场景、时间线和素材路径；验收通过后
+   才由 Coco 主 session 运行根目录 `./deploy.sh`
 5. **封面是最重要的一张**，不要偷懒用简单 prompt
