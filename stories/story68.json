@@ -3,13 +3,13 @@
   "title_en": "Bubu’s Favorite Ice Cream and the Golden Old River Bridge",
   "pages": [
     {
-      "text": "封面：咘咘拿着马迭尔冰棍，在金色夕阳中的老江桥上开心跑；爸爸妈妈、爷爷奶奶、外公外婆在旁边笑着陪她，鸥鸟飞过松花江。",
-      "text_en": "Cover: Bubu happily runs on the old river bridge in golden sunset light, holding a Madieer ice cream bar. Dad, Mom, Grandpa, Grandma, Maternal Grandpa, and Maternal Grandma smile alongside her while gulls fly over the Songhua River.",
+      "text": "咘咘的马迭尔冰棍和金色老江桥",
+      "text_en": "Bubu’s Favorite Ice Cream and the Golden Old River Bridge",
       "image": "images/story68/page-01.jpg"
     },
     {
-      "text": "今天，咘咘和全家来到热热闹闹的中央大街。",
-      "text_en": "Today, Bubu and her whole family come to lively Central Street.",
+      "text": "今天，咘咘和爸爸妈妈来到热热闹闹的中央大街。",
+      "text_en": "Today, Bubu comes to lively Central Street with Dad and Mom.",
       "image": "images/story68/page-02.jpg"
     },
     {
@@ -33,13 +33,13 @@
       "image": "images/story68/page-06.jpg"
     },
     {
-      "text": "咘咘又舔一小口，爸爸妈妈、爷爷奶奶、外公外婆都笑了。",
-      "text_en": "Bubu takes another little lick, and Dad, Mom, Grandpa, Grandma, Maternal Grandpa, and Maternal Grandma all smile.",
+      "text": "咘咘又舔一小口，爸爸妈妈在旁边笑了。",
+      "text_en": "Bubu takes another little lick, and Dad and Mom smile beside her.",
       "image": "images/story68/page-07.jpg"
     },
     {
-      "text": "吃完最喜欢的冰棍，大家慢慢走向宽宽的松花江。",
-      "text_en": "After finishing her favorite ice cream bar, everyone slowly walks toward the broad Songhua River.",
+      "text": "吃完最喜欢的冰棍，咘咘和爸爸妈妈慢慢走向宽宽的松花江。",
+      "text_en": "After finishing her favorite ice cream bar, Bubu and her parents slowly walk toward the broad Songhua River.",
       "image": "images/story68/page-08.jpg"
     },
     {
@@ -68,13 +68,13 @@
       "image": "images/story68/page-13.jpg"
     },
     {
-      "text": "咘咘一下子跑起来！她在老江桥上跑呀跑，开心得像一只小白兔。",
-      "text_en": "Bubu suddenly starts running! She runs and runs across the Old River Bridge, happy like a little white rabbit.",
+      "text": "咘咘一下子跑起来！她在老江桥上跑呀跑，开心得像一只小白兔。爸爸妈妈在不远处看着她。",
+      "text_en": "Bubu suddenly starts running! She runs and runs across the Old River Bridge, happy like a little white rabbit. Dad and Mom watch from nearby.",
       "image": "images/story68/page-14.jpg"
     },
     {
-      "text": "爸爸妈妈、爷爷奶奶、外公外婆在旁边跟着她，笑着提醒：“慢一点，注意脚下。”",
-      "text_en": "Dad, Mom, Grandpa, Grandma, Maternal Grandpa, and Maternal Grandma follow beside her, smiling as they remind her, “Slow down and watch your step.”",
+      "text": "爸爸妈妈在旁边跟着她，笑着提醒：“慢一点，注意脚下。”",
+      "text_en": "Dad and Mom follow beside her, smiling as they remind her, “Slow down and watch your step.”",
       "image": "images/story68/page-15.jpg"
     },
     {
@@ -88,8 +88,8 @@
       "image": "images/story68/page-17.jpg"
     },
     {
-      "text": "金色的老江桥、飞翔的鸥鸟和一家人的笑声，陪咘咘一起回到酒店。",
-      "text_en": "The golden Old River Bridge, flying gulls, and the family’s laughter go with Bubu back to the hotel.",
+      "text": "金色的老江桥、飞翔的鸥鸟和一家三口的笑声，陪咘咘一起回到酒店。",
+      "text_en": "The golden Old River Bridge, flying gulls, and the laughter of the three of them go with Bubu back to the hotel.",
       "image": "images/story68/page-18.jpg"
     }
   ]
