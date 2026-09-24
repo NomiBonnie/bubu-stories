@@ -1,5 +1,38 @@
 [
   {
+    "id": "story68",
+    "title": "咘咘的马迭尔冰棍和金色老江桥",
+    "chapter": 68,
+    "pages": 18,
+    "cover": "page-01",
+    "tags": [
+      "哈尔滨",
+      "中央大街",
+      "马迭尔冰棍",
+      "老江桥",
+      "松花江",
+      "家人",
+      "秋天"
+    ],
+    "title_en": "Bubu’s Favorite Ice Cream and the Golden Old River Bridge"
+  },
+  {
+    "id": "story67",
+    "title": "咘咘和夜晚的圣索菲亚",
+    "chapter": 67,
+    "pages": 18,
+    "cover": "page-01",
+    "tags": [
+      "哈尔滨",
+      "旅行",
+      "圣索菲亚教堂",
+      "家人",
+      "夜景",
+      "秋天"
+    ],
+    "title_en": "Bubu and Saint Sophia at Night"
+  },
+  {
     "id": "story66",
     "title": "咘咘的早晨魔法歌",
     "chapter": 66,
