@@ -1,13 +1,76 @@
 {
-  "title": "咘咘的秋叶寻宝",
-  "title_en": "BUBU'S AUTUMN LEAF TREASURE HUNT",
+  "title": "咘咘和伊春的花栗鼠",
+  "title_en": "BUBU AND THE LITTLE CHIPMUNK IN YICHUN",
   "pages": [
-    {"text":"咘咘的秋叶寻宝","text_en":"BUBU'S AUTUMN LEAF TREASURE HUNT","image":"images/story70/page-01.jpg"},
-    {"text":"十月的深圳，秋风轻轻吹。咘咘和爸爸妈妈一起来到公园，金黄的落叶像小蝴蝶一样飞舞。咘咘开心地说：“今天我们来寻宝！”","text_en":"In October in Shenzhen, a gentle autumn breeze blew. Bubu came to the park with Mummy and Daddy, and golden leaves fluttered like little butterflies. \"Let's go on a treasure hunt today!\" Bubu said happily.","image":"images/story70/page-02.jpg"},
-    {"text":"咘咘蹲在草地上，认真地找呀找。她找到一片心形的黄叶子，举起来给妈妈看。妈妈笑着说：“这片叶子最像一颗小爱心。”","text_en":"Bubu crouched on the grass and searched carefully. She found a heart-shaped yellow leaf and held it up for Mummy to see. \"This leaf looks just like a little heart,\" Mummy said with a smile.","image":"images/story70/page-03.jpg"},
-    {"text":"一片红红的叶子挂在高高的树枝上。爸爸轻轻抱起咘咘，咘咘伸手一够，就把红叶子摘了下来。“谢谢爸爸！”咘咘开心地亲了爸爸一下。","text_en":"A bright red leaf hung on a high branch. Daddy lifted Bubu up gently, and Bubu reached out and picked the red leaf. \"Thank you, Daddy!\" Bubu said, giving Daddy a happy kiss.","image":"images/story70/page-04.jpg"},
-    {"text":"妈妈铺开一张大纸，和咘咘一起把叶子拼呀拼。黄的、红的、橙的叶子，慢慢拼成了一只可爱的小兔子。咘咘拍着手说：“这就是我！”","text_en":"Mummy spread out a big sheet of paper, and together they arranged the leaves. Yellow, red and orange leaves slowly became a lovely little rabbit. \"That is me!\" Bubu clapped her hands.","image":"images/story70/page-05.jpg"},
-    {"text":"咘咘挑出最漂亮的三片叶子，一片送给爸爸，一片送给妈妈，一片留给自己。爸爸妈妈把叶子夹进书里，说：“这是我们今天最珍贵的宝贝。”","text_en":"Bubu picked out the three prettiest leaves: one for Daddy, one for Mummy, and one for herself. Mummy and Daddy pressed the leaves into a book and said, \"These are our most precious treasures today.\"","image":"images/story70/page-06.jpg"},
-    {"text":"夕阳把公园染成了金色，咘咘抱着装满叶子的宝盒，和爸爸妈妈慢慢走回家。咘咘轻声说：“明天，我还要和你们一起寻宝。”","text_en":"The setting sun turned the park golden. Holding her box full of leaves, Bubu walked home slowly with Mummy and Daddy. \"Tomorrow, I want to go treasure hunting with you again,\" Bubu whispered.","image":"images/story70/page-07.jpg"}
+    {
+      "text": "咘咘和伊春的花栗鼠",
+      "text_en": "BUBU AND THE LITTLE CHIPMUNK IN YICHUN",
+      "image": "images/story70/page-01.jpg"
+    },
+    {
+      "text": "哈尔滨的故事还没有讲完。一家人坐上车，继续往伊春开去。窗外的树越来越多，越来越绿，咘咘趴在窗边问：“下一站，我们去看什么呀？”",
+      "text_en": "The Harbin story was not over yet. The family got in the car and drove on to Yichun. There were more and more trees outside the window, greener and greener. Bubu pressed against the window and asked, \"What are we going to see next?\"",
+      "image": "images/story70/page-02.jpg"
+    },
+    {
+      "text": "伊春有好几个森林公园，一座连着一座。高高的大树站在路两边，空气里有松树的香味。咘咘拉着爸爸妈妈的手，走上弯弯的林间小道。",
+      "text_en": "Yichun has many forest parks, one after another. Tall trees stood on both sides of the road, and the air smelled of pine. Bubu held Mummy and Daddy's hands and walked onto the winding forest trail.",
+      "image": "images/story70/page-03.jpg"
+    },
+    {
+      "text": "爸爸轻声说：“这里住着花栗鼠，它们最喜欢吃花生和瓜子。”妈妈笑着补充：“只能给它们花生和瓜子，还要轻轻的、静静的，不能追，也不能吓到它们。”",
+      "text_en": "Daddy said softly, \"Chipmunks live here, and they love peanuts and sunflower seeds most of all.\" Mummy added with a smile, \"We can only give them peanuts and seeds, and we must be gentle and quiet. No chasing, and no scaring them.\"",
+      "image": "images/story70/page-04.jpg"
+    },
+    {
+      "text": "咘咘认真地点点头，把花生和瓜子装进自己的小布袋里。她把袋口握得紧紧的，像抱着一份小小的礼物。“这是给花栗鼠的，”她小声说。",
+      "text_en": "Bubu nodded seriously and put the peanuts and seeds into her little cloth bag. She held the bag tightly, like a small gift. \"These are for the chipmunk,\" she whispered.",
+      "image": "images/story70/page-05.jpg"
+    },
+    {
+      "text": "走在林间的小道上，阳光从树叶中间漏下来，一闪一闪的。咘咘踮着脚尖走路，眼睛睁得大大的，东看看，西找找。",
+      "text_en": "Walking on the forest trail, sunlight slipped through the leaves and sparkled. Bubu walked on tiptoe, her eyes wide open, looking here and looking there.",
+      "image": "images/story70/page-06.jpg"
+    },
+    {
+      "text": "大树下面没有，石头后面没有，木头小桥旁边也没有。咘咘找了一处又一处，还是没有看到花栗鼠。爸爸说：“别着急，慢慢找，它一定在附近。”",
+      "text_en": "There was none under the big tree, none behind the rock, and none beside the little wooden bridge. Bubu searched place after place, but still no chipmunk. \"Don't hurry,\" Daddy said. \"Look slowly. It must be nearby.\"",
+      "image": "images/story70/page-07.jpg"
+    },
+    {
+      "text": "妈妈竖起一根手指：“嘘，听。”树叶里传来轻轻的沙沙声。咘咘屏住呼吸，跟着声音慢慢走过去，心跳得像小鼓一样。",
+      "text_en": "Mummy raised one finger. \"Shh, listen.\" A soft rustling came from the leaves. Bubu held her breath and followed the sound slowly, her heart beating like a little drum.",
+      "image": "images/story70/page-08.jpg"
+    },
+    {
+      "text": "找到了！一个小小的花栗鼠站在长满青苔的树桩上，背上有浅浅的条纹，眼睛亮亮的，尾巴毛茸茸的。它歪着头，也在好奇地看着咘咘。",
+      "text_en": "Found it! A tiny chipmunk stood on a mossy tree stump, with soft stripes on its back, bright eyes and a fluffy tail. It tilted its head and looked curiously back at Bubu.",
+      "image": "images/story70/page-09.jpg"
+    },
+    {
+      "text": "咘咘慢慢蹲下来，把一颗花生轻轻放在手心里，伸到花栗鼠面前。花栗鼠闻了闻，又看了看咘咘，然后小心地把花生捧走了。",
+      "text_en": "Bubu crouched down slowly, put a peanut gently in her hand, and held it out to the chipmunk. The chipmunk sniffed it, looked at Bubu, and then carefully took the peanut in its paws.",
+      "image": "images/story70/page-10.jpg"
+    },
+    {
+      "text": "花栗鼠一颗接一颗地吃，花生、瓜子都塞进嘴里，两边的脸颊鼓得圆圆的，像藏了两个小皮球。咘咘捂着嘴笑：“它非常非常非常喜欢！”",
+      "text_en": "The chipmunk ate one after another, stuffing peanuts and seeds into its mouth until both cheeks were round, like two little balls. Bubu covered her mouth and laughed, \"It likes them very, very, very much!\"",
+      "image": "images/story70/page-11.jpg"
+    },
+    {
+      "text": "吃完花生，花栗鼠又接过瓜子，坐在树桩上慢慢嗑，尾巴一摆一摆的。爸爸妈妈站在后面，静静地看着，谁也没有出声打扰。",
+      "text_en": "After the peanuts, the chipmunk took the seeds too, and sat on the stump nibbling slowly, its tail swaying. Mummy and Daddy stood behind, watching quietly, and nobody made a sound to disturb it.",
+      "image": "images/story70/page-12.jpg"
+    },
+    {
+      "text": "太阳慢慢低下来，森林变成金色的了。咘咘向树上的花栗鼠挥挥手：“谢谢你陪我们玩，我们还会再来的。”花栗鼠从树枝后探出头，像在和她说再见。",
+      "text_en": "The sun sank slowly, and the forest turned golden. Bubu waved to the chipmunk in the tree. \"Thank you for playing with us. We will come again.\" The chipmunk peeked out from behind a branch, as if waving goodbye too.",
+      "image": "images/story70/page-13.jpg"
+    },
+    {
+      "text": "回去的路上，咘咘抱着空空的小布袋，心里却满满的。她靠在妈妈身边说：“我非常非常喜欢花栗鼠。”爸爸笑着说：“今天，是森林送给我们最好的礼物。”",
+      "text_en": "On the way back, Bubu hugged her empty little bag, but her heart was full. Leaning against Mummy, she said, \"I like the chipmunk very, very much.\" Daddy smiled. \"Today was the forest's best gift to us.\"",
+      "image": "images/story70/page-14.jpg"
+    }
   ]
 }
