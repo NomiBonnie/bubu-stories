@@ -1,5 +1,60 @@
 [
   {
+    "id": "story74",
+    "title": "咘咘害怕的时候",
+    "chapter": 74,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "情绪",
+      "害怕",
+      "勇敢",
+      "家人"
+    ],
+    "title_en": "WHEN BUBU IS SCARED"
+  },
+  {
+    "id": "story73",
+    "title": "咘咘好开心",
+    "chapter": 73,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "情绪",
+      "高兴",
+      "猪猪姐姐",
+      "冰淇淋"
+    ],
+    "title_en": "BUBU IS SO HAPPY"
+  },
+  {
+    "id": "story72",
+    "title": "咘咘生气了",
+    "chapter": 72,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "情绪",
+      "生气",
+      "挫折",
+      "家人"
+    ],
+    "title_en": "BUBU IS ANGRY"
+  },
+  {
+    "id": "story71",
+    "title": "咘咘心里的小天气",
+    "chapter": 71,
+    "pages": 13,
+    "cover": "page-01",
+    "tags": [
+      "情绪",
+      "天气",
+      "家人"
+    ],
+    "title_en": "BUBU'S LITTLE WEATHER INSIDE"
+  },
+  {
     "id": "story70",
     "title": "咘咘和伊春的花栗鼠",
     "chapter": 70,
