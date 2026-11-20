@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T09:56:43+08:00",
- "remaining": 25,
- "used": 75,
+ "updated": "2026-11-20T12:56:27+08:00",
+ "remaining": 24,
+ "used": 76,
  "resetText": "明天 07:19",
  "lines": [
   {
@@ -12,12 +12,12 @@
   {
    "icon": "🌡️",
    "text": "苏州今夜5° 注意保暖",
-   "sub": "明日14° · 周日16°"
+   "sub": "明日14° · 周日16° · 周一小雨"
   },
   {
    "icon": "💡",
-   "text": "AI 记分牌从烧得多变花得值",
-   "sub": "Perplexity 只花 1/5 的钱做到 10 亿收入"
+   "text": "你们团队的 token capital 是什么？",
+   "sub": "Nadella：AI 竞赛不是市值竞赛，是 token capital 的政治经济学"
   }
  ]
 }
