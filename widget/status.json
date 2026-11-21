@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-20T23:57:33+08:00",
- "remaining": 13,
- "used": 87,
- "resetText": "明天 07:19",
+ "updated": "2026-11-21T08:22:34+08:00",
+ "remaining": 100,
+ "used": 0,
+ "resetText": "7天后 07:19",
  "lines": [
   {
    "icon": "📈",
@@ -13,11 +13,6 @@
    "icon": "🌡️",
    "text": "苏州今夜4° 注意保暖",
    "sub": "明日15° · 周日17° · 周一小雨"
-  },
-  {
-   "icon": "💡",
-   "text": "你们团队的 token capital 是什么？",
-   "sub": "Nadella：AI 竞赛不是市值竞赛，是 token capital 的政治经济学"
   }
  ]
 }
