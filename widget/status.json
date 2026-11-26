@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-26T08:21:47+08:00",
- "remaining": 22,
- "used": 78,
+ "updated": "2026-11-26T08:59:24+08:00",
+ "remaining": 21,
+ "used": 79,
  "resetText": "2天后 07:19",
  "lines": [
   {
    "icon": "🚗",
    "text": "送 Tesla 去园区维修",
-   "sub": "明天"
+   "sub": "今天"
   },
   {
    "icon": "🍽️",
